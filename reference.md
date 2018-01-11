@@ -75,6 +75,7 @@ abbr {text-decoration: none;}
 <li><a href="https://chuanke.baidu.com" target="_blank">百度传课</a></li>
 <li><a href="http://www.imooc.com/" target="_blank">慕课网</a></li>
 <li><a href="http://study.163.com/" target="_blank">网易云课堂</a></li>
+<li><a href="http://www.maiziedu.com/" target="_blank">麦子学院</a></li>
 <li><a href="http://www.icourses.cn/home/" target="_blank">爱课程</a></li>
 <li><a href="http://www.class.cn/index/open" target="_blank">中国教育在线</a></li>
 <li><a href="http://www.fenbi.com/web/" target="_blank">粉笔网</a></li>
