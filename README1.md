@@ -7,7 +7,7 @@
 ![首页](https://github.com/lvxiong7zg/lvxiong7zg.github.io/blob/master/styles/images/blog/blog.png?raw=true)
 
 + 首页: 博客首页
-+ 博文分类: 按照categories对文章进行分类
++ 博文分类1: 按照categories对文章进行分类
 + 标签分类: 按照tags对文章进行分类
 + 外域链接: 存放一些想要其他网站的链接
 + DEMO: 存放个人项目
