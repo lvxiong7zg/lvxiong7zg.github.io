@@ -11,7 +11,7 @@ abbr {text-decoration: none;}
 </style>
 <hr><h4 class="btn btn-info btn-lg">插件</h4><hr>
 <ol class="rectangle-list">
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EasyCharts图表插件  （密码12nx,下同)）</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EasyCharts图表插件 / Foxtable插件（密码12nx,下同)）</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="秒速检索电脑内文档">Everything文档搜索器</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="一个鼠标手势秒速操作程序，取代快捷键"> WGestures 桌面手势插件</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="桌面程序管理器，与wGestures更配哦">Rolan</abbr></a></li>
@@ -19,15 +19,15 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">office暴风激活工具</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="免账号知网下载插件（途径一）">cnki-downloader知网免账号下载插件</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCELtool / excelwangnengbai</a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL零一工具箱</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL零一工具箱/方方格子/易用宝</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL: power Query</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">WoldKutools</a></li>
 <!--JSON验证-->
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件1：Nordri Tools(iSlide前身)</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件2：OneKeyTools</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件3：iSlideTools.Setup.Online.2.5.0</a></li>
-<!--js库-->
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件4:PocketAnimation</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件4:LV插件</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件5:PocketAnimation</a></li>
 <li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
 <li><a href="http://www.wangqianfang.com/1215.html" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">IDMan运营新人</a></li>
@@ -45,6 +45,7 @@ abbr {text-decoration: none;}
 <hr><h4 class="btn btn-info btn-lg">设计素材</h4><hr>
 <ol class="rectangle-list">
 <!--国外-->
+<li><a href="http://www.aigei.com/" target="_blank">爱给网：免费音效、配乐网</a></li>
 <li><a href="http://upuptoyou.com/" target="_blank">字体1：UPUP拍立得</a></li>
 <li><a href="https://wordart.com/create" target="_blank">字体2：文字云</a></li>
 <!--国内-->
@@ -93,13 +94,16 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据采集：python/R语言</a></li>
 <!--图库-->
 <li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">问卷数据录入：Epidata</a></li>
-<li><a href="https://pan.baidu.com/s/1qZjiYSW" target="_blank">数据可视化：Pwer Bi  (密码cwkw)</a></li>
-<li><a href="https://pan.baidu.com/s/1hsY9W00" target="_blank">基础数据分析:spss(主菜单式)、SQL系列 （密码tz4m)</a></li>
+<li><a href="https://pan.baidu.com/s/1qZjiYSW" target="_blank">数据可视化：Pwer Bi / TableAU  (密码cwkw)</a></li>
+<li><a href="" target="_blank">关系分析：Gephi </a></li>
+<li><a href="http://www.nanocubes.net/" target="_blank">时空数据分析：Nanocubes </a></li>
+<li><a href="https://pan.baidu.com/s/1hsY9W00" target="_blank">基础数据分析:spss(主菜单式)、SQL系列、Excel+VBA（密码tz4m)</a></li>
 <li><a href="https://pan.baidu.com/s/1i6xAyZN" target="_blank">计量分析：EVIEWS  (密码z16f)</a></li>
 <li><a href="https://pan.baidu.com/s/1c4bGiZY" target="_blank">数据分析进阶：SAS/stata（半菜单半编程） （密码ia5k)</a></li>
-<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据分析进阶：R语言/python（编程式） (密码ub05)</a></li>
-<li><a href="https://pan.baidu.com/s/1qZLcGfq" target="_blank">数据挖掘：Hadoop/spark/R语言/python（编程式）  （密码i1h2）</a></li>
-
+<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据分析进阶：R语言/python/ava（编程式） (密码ub05)</a></li>
+<li><a href="https://pan.baidu.com/s/1qZLcGfq" target="_blank">数据挖掘：Hadoop/spark/R语言/python/Spss Modeler（编程式）  （密码i1h2）</a></li>
+<li><a href="http://bbs.pinggu.org/thread-6182795-1-1.html" target="_blank">结构方程模型：AMOS</a></li>
+<li><a href="http://blog.csdn.net/xieyan0811/article/details/60962955" target="_blank">自然语言处理NLP</a></li>
 
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">其他软件</h4><hr>
@@ -110,9 +114,8 @@ abbr {text-decoration: none;}
 <li><a href="http://www.vosviewer.com/" target="_blank">CSSS知识图谱2:vosviewer</a></li>
 <li><a href="http://www.safemetrics.risk-technologies.com/" target="_blank">CSSS知识图谱3:safemetrics</a></li>
 <li><a href="http://blog.sciencenet.cn/u/ChaomeiChen" target="_blank">CSSS知识图谱4:scientometrics</a></li>
-<li><a href="http://mp.weixin.qq.com/s/VE0BaA16DQhoePWEZ4zKgw" target="_blank">科研作图：Origin/Graphpad</a></li>
-<li><a href="http://bbs.pinggu.org/thread-6182795-1-1.html" target="_blank">结构方程模型：AMOS</a></li>
-<li><a href="http://blog.csdn.net/xieyan0811/article/details/60962955" target="_blank">自然语言处理</a></li>
+<li><a href="http://mp.weixin.qq.com/s/VE0BaA16DQhoePWEZ4zKgw" target="_blank">科研作图：Origin/Graphpad/SigmaPlot</a></li>
+<li><a href="" target="_blank">英文写作神器：WhiteSmoke</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">各大公司前端站点</h4><hr>
 <ol class="rectangle-list">
@@ -131,10 +134,20 @@ abbr {text-decoration: none;}
 <li><a href="http://bbs.pinggu.org/" target="_blank">经管之家论坛</a></li>
 <li><a href="https://www.w3cschool.cn/" target="_blank">W3cschool</a></li>
 <li><a href="http://www.51cto.com/" target="_blank">51cto</a></li>
+<li><a href="http://www.demo8.com/demo/44742/infogr.am" target="_blank">i.a：数据可视化制作平台</a></li>
+<li><a href="https://zhugeio.com/" target="_blank">诸葛IO：用户行为洞察（友盟）</a></li>
+<li><a href="http://www.demo8.com/demo/43813/%E5%90%AC%E9%81%93" target="_blank">听道</a></li>
+<li><a href="http://www.demo8.com/demo/26238/Workflow" target="_blank">Workflow流程系统</a></li>
+<li><a href="http://www.demo8.com/demo/31308/%E5%8F%AE%E5%BD%93" target="_blank">叮当：APP自助生产运营平台</a></li><li><a href="http://www.demo8.com/demo/43813/%E5%90%AC%E9%81%93" target="_blank">听道</a></li>
 <li><a href="http://www.1xuezhe.com/" target="_blank">壹学者/小木虫学术平台</a></li>
 <li><a href="http://www.yuntougao.com/wx/" target="_blank">免账号知网下载（途径二）</a></li>
 <li><a href="https://www.csdn.net" target="_blank">CSDN论坛</a></li>
 <li><a href="http://www.nlc.cn/" target="_blank">中国国家图书馆</a></li>
+<li><a href="http://www.iyangcong.com" target="_blank">爱洋葱英汉图书平台</a></li>
+<li><a href="http://shuge.org/" target="_blank">书格</a></li>
+<li><a href="http://www.zdic.net/" target="_blank">汉典</a></li>
+<li><a href="http://guji.artx.cn/" target="_blank">中国古籍全录/a></li>
+
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
 <ol class="rectangle-list">
