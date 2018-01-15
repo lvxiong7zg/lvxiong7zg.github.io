@@ -100,7 +100,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1hsY9W00" target="_blank">基础数据分析:spss(主菜单式)、SQL系列、Excel+VBA（密码tz4m)</a></li>
 <li><a href="https://pan.baidu.com/s/1i6xAyZN" target="_blank">计量分析：EVIEWS  (密码z16f)</a></li>
 <li><a href="https://pan.baidu.com/s/1c4bGiZY" target="_blank">数据分析进阶：SAS/stata（半菜单半编程） （密码ia5k)</a></li>
-<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据分析进阶：R语言/python/ava（编程式） (密码ub05)</a></li>
+<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据分析进阶：R语言/python/Java（编程式） (密码ub05)</a></li>
 <li><a href="https://pan.baidu.com/s/1qZLcGfq" target="_blank">数据挖掘：Hadoop/spark/R语言/python/Spss Modeler（编程式）  （密码i1h2）</a></li>
 <li><a href="http://bbs.pinggu.org/thread-6182795-1-1.html" target="_blank">结构方程模型：AMOS</a></li>
 <li><a href="http://blog.csdn.net/xieyan0811/article/details/60962955" target="_blank">自然语言处理NLP</a></li>
@@ -111,7 +111,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1smwEhoL" target="_blank">visio简单制图 （密码aysm）</a></li>
 <li><a href="http://mp.weixin.qq.com/s/zGXI2L2GWmrpQAxX_6518w" target="_blank">PS正版软件（附序列号-来源于学通网络）</a></li>
 <li><a href="http://cluster.ischool.drexel.edu/~cchen/citespace/" target="_blank">CSSS知识图谱1（文献计量）软件:citespace</a></li>
-<li><a href="http://www.vosviewer.com/" target="_blank">CSSS知识图谱2:vosviewer</a></li>
+<li><a href="http://www.vosviewer.com/" target="_blank">CSSS知识图谱2:vosviewer/HistCite</a></li>
 <li><a href="http://www.safemetrics.risk-technologies.com/" target="_blank">CSSS知识图谱3:safemetrics</a></li>
 <li><a href="http://blog.sciencenet.cn/u/ChaomeiChen" target="_blank">CSSS知识图谱4:scientometrics</a></li>
 <li><a href="http://mp.weixin.qq.com/s/VE0BaA16DQhoePWEZ4zKgw" target="_blank">科研作图：Origin/Graphpad/SigmaPlot</a></li>
