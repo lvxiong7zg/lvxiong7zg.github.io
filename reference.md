@@ -138,7 +138,7 @@ abbr {text-decoration: none;}
 <li><a href="https://zhugeio.com/" target="_blank">诸葛IO：用户行为洞察（友盟）</a></li>
 <li><a href="http://www.demo8.com/demo/43813/%E5%90%AC%E9%81%93" target="_blank">听道</a></li>
 <li><a href="http://www.demo8.com/demo/26238/Workflow" target="_blank">Workflow流程系统</a></li>
-<li><a href="http://www.demo8.com/demo/31308/%E5%8F%AE%E5%BD%93" target="_blank">叮当：APP自助生产运营平台</a></li><li><a href="http://www.demo8.com/demo/43813/%E5%90%AC%E9%81%93" target="_blank">听道</a></li>
+<li><a href="http://www.demo8.com/demo/31308/%E5%8F%AE%E5%BD%93" target="_blank">叮当：APP自助生产运营平台</a></li>
 <li><a href="http://www.1xuezhe.com/" target="_blank">壹学者/小木虫学术平台</a></li>
 <li><a href="http://www.yuntougao.com/wx/" target="_blank">免账号知网下载（途径二）</a></li>
 <li><a href="https://www.csdn.net" target="_blank">CSDN论坛</a></li>
