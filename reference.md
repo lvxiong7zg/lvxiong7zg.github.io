@@ -146,8 +146,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.iyangcong.com" target="_blank">爱洋葱英汉图书平台</a></li>
 <li><a href="http://shuge.org/" target="_blank">书格</a></li>
 <li><a href="http://www.zdic.net/" target="_blank">汉典</a></li>
-<li><a href="http://guji.artx.cn/" target="_blank">中国古籍全录/a></li>
-
+<li><a href="http://guji.artx.cn/" target="_blank">中国古籍全录</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
 <ol class="rectangle-list">
