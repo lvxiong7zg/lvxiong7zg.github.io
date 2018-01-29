@@ -17,11 +17,9 @@ date: 2018-03-05 13:34:51 +0800
 <p align="right">2018年01月10日 记</p>
 
 
------------------------------------------
-
-<embed src="//music.163.com/style/swf/widget.swf?sid=819439&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
 -----------------------------------------
+
 首页：
 
 <img src="{{ '/road/images/1.jpg' | prepend: site.baseurl }}" />
