@@ -2,7 +2,7 @@ var myBot = new BotUI('hello-world');
 
     myBot.message.add({ // show a message
       delay: 200,
-      content: 'Hello, my name is timi.'
+      content: 'Hello, my name is Lv lvxiong.'
     }).then (function (){
       myBot.message.add({
         delay: 1000,
@@ -25,7 +25,7 @@ var myBot = new BotUI('hello-world');
        return myBot.message.add({
          delay: 1000,
          loading: true,
-         content: 'What can i do for you?'
+         content: 'What can I do for you?'
        })
      }).then (function (){
        return myBot.action.button({
@@ -57,8 +57,8 @@ var myBot = new BotUI('hello-world');
           return myBot.message.add ({
           delay: 1000,
           loading: true,
-          content: `Go ahead, try [my website](http://xiaokedada.com) or <a href="mailto:maoxiaoke@outlook.com">Email me.</a> </br>
-                    Here is my [Github address](https://github.com/maoxiaoke).`
+          content: `Go ahead, try [my website](http://lvxiong7zg.com) or <a href="mailto:lvxiong7zg@outlook.com">Email me.</a> </br>
+                    Here is my [Github address](https://github.com/lvxiong7zg).`
         });
         break;/*
         case 'your hobbies':
@@ -116,8 +116,8 @@ var myBot = new BotUI('hello-world');
                return myBot.message.add ({
                delay: 1000,
                loading: true,
-               content: `Go ahead, try [my website](http://xiaokedada.com) or <a href="mailto:maoxiaoke@outlook.com">Email me.</a> </br>
-                         Here is my [Github address](https://github.com/maoxiaoke).`
+               content: `Go ahead, try [my website](http://lvxiong7zg.com) or <a href="mailto:lvxiong7zg@outlook.com">Email me.</a> </br>
+                         Here is my [Github address](https://github.com/lvxiong7zg).`
              });
              break;/*
              case 'your hobbies':
@@ -161,7 +161,7 @@ var myBot = new BotUI('hello-world');
           return myBot.message.add({
             delay: 1000,
             loading: true,
-            content: `i'm sorry! i don't love you because i love Yuer.`
+            content: `I'm sorry! I don't love you because I love zegr.`
           })
 
           break;
@@ -169,7 +169,7 @@ var myBot = new BotUI('hello-world');
             return myBot.message.add({
               delay: 1000,
               loading: true,
-              content: `i don't love you too, because i love Yuer.`
+              content: `I don't love you too, because I love zegr.`
             })
         default:
 
@@ -190,7 +190,7 @@ var myBot = new BotUI('hello-world');
       return myBot.message.add({
         delay: 1000,
         loading: true,
-        content: 'Well, i fooled you. I will keep it myself'
+        content: 'Well, I fooled you. I will keep it myself'
       })
     }).then(function(){
       return myBot.message.add({
