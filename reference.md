@@ -13,7 +13,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EasyCharts图表插件  （密码12nx,下同)）</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="秒速检索电脑内文档">Everything文档搜索器</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="一个鼠标手势秒速操作程序，取代快捷键"> WGestures 桌面手势插件</abbr></a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><桌面程序管理器，与wGestures更配哦>Rolan</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="桌面程序管理器，与wGestures更配哦>Rolan</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="小白翻墙利器">ss/lantern翻墙</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">office暴风激活工具</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="免账号知网下载插件（途径一）">cnki-downloader知网免账号下载插件</abbr></a></li>
@@ -23,11 +23,12 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">WoldKutools</a></li>
 <!--JSON验证-->
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件1：Nordri Tools(iSlide前身)</a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件2：iSlideTools.Setup.Online.2.5.0</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件2：OneKeyTools</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件3：iSlideTools.Setup.Online.2.5.0</a></li>
 <!--js库-->
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件3:PocketAnimation</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件4:PocketAnimation</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">jQuery 插件库</a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">chrome浏览器插件库：免VIP视频播放、页页面采集等</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">IDMan运营新人</a></li>
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">设计网址</h4><hr>
@@ -118,7 +119,7 @@ abbr {text-decoration: none;}
 <ol class="rounded-list">
 <li><a href="https://en.ss8.fun/" target="_blank">SS翻墙网（结合ss插件）</a></li>
 <li><a href="http://www.clipconverter.cc/" target="_blank">youtube资源下载</a></li>
-<li><a href="http://www.bazhuayu.com/?utm_campaign=baidu&utm_medium=pc11611&utm_source=30&utm_content=%E7%BD%91%E9%A1%B5&utm_term=%E7%BD%91%E9%A1%B5%E4%B8%8B%E8%BD%BD%E5%99%A8" target="_blank">八爪鱼网页数据采集</a></li>
+<li><a href="http://www.bazhuayu.com/?utm_campaign=baidu&utm_medium=pc11611&utm_source=30&utm_content=%E7%BD%91%E9%A1%B5&utm_term=%E7%BD%91%E9%A1%B5%E4%B8%8B%E8%BD%BD%E5%99%A8" target="_blank">八爪鱼网页采集（文档、视频、图片、音乐）</a></li>
 <li><a href="http://bbs.pinggu.org/" target="_blank">经管之家论坛</a></li>
 <li><a href="https://www.w3cschool.cn/" target="_blank">W3w3cschool</a></li>
 <li><a href="http://www.51cto.com/" target="_blank">51cto</a></li>
