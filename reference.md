@@ -138,5 +138,5 @@ abbr {text-decoration: none;}
 <ol class="rectangle-list">
 <li><a href="https://www.codewars.com/" target="_blank">Code Kata</a></li>
 </ol>
-<hr><h4 class="btn btn-info btn-lg">更新中...</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">努力更新中...</h4><hr>
 <ol class="rounded-list">
