@@ -13,7 +13,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EasyCharts图表插件  （密码12nx,下同)）</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="秒速检索电脑内文档">Everything文档搜索器</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="一个鼠标手势秒速操作程序，取代快捷键"> WGestures 桌面手势插件</abbr></a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title=""桌面程序管理器，与wGestures更配哦">Rolan</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="桌面程序管理器，与wGestures更配哦">Rolan</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="小白翻墙利器">ss/lantern翻墙</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">office暴风激活工具</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="免账号知网下载插件（途径一）">cnki-downloader知网免账号下载插件</abbr></a></li>
@@ -104,7 +104,7 @@ abbr {text-decoration: none;}
 <ol class="rounded-list">
 <li><a href="https://pan.baidu.com/s/1smwEhoL" target="_blank">visio简单制图 （密码aysm）</a></li>
 <li><a href="http://mp.weixin.qq.com/s/zGXI2L2GWmrpQAxX_6518w" target="_blank">PS正版软件（附注册码-来源于学通网络）</a></li>
-<li><a href="https://pan.baidu.com/s/1kWv40Zl" target="_blank">citespace知识图谱（文献计量）软件（密码yrhv）</a></li>
+<li><a href="https://pan.baidu.com/s/1dGxcA5N" target="_blank">citespace知识图谱（文献计量）软件（密码46c7）</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">各大公司前端站点</h4><hr>
 <ol class="rectangle-list">
