@@ -90,11 +90,11 @@ abbr {text-decoration: none;}
 <ol class="rectangle-list">
 <li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据采集：python/R语言</a></li>
 <!--图库-->
-<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">问卷数据整理：Epidate</a></li>
+<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">问卷数据整理：Epidata</a></li>
 <li><a href="https://pan.baidu.com/s/1qZjiYSW" target="_blank">数据可视化：Pwer Bi  (密码cwkw)</a></li>
 <li><a href="https://pan.baidu.com/s/1hsY9W00" target="_blank">基础数据分析:spss(主菜单式)、SQL系列 （密码tz4m)</a></li>
 <li><a href="https://pan.baidu.com/s/1i6xAyZN" target="_blank">计量分析：EVIEWS  (密码z16f)</a></li>
-<li><a href="https://pan.baidu.com/s/1c4bGiZY" target="_blank">数据分析进阶：SAS/state（半菜单半编程） （密码ia5k)</a></li>
+<li><a href="https://pan.baidu.com/s/1c4bGiZY" target="_blank">数据分析进阶：SAS/stata（半菜单半编程） （密码ia5k)</a></li>
 <li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据分析进阶：R语言/python（编程式） (密码ub05)</a></li>
 <li><a href="https://pan.baidu.com/s/1qZLcGfq" target="_blank">数据挖掘：Hadoop/spark/R语言/python（编程式）  （密码i 1h2）</a></li>
 
@@ -104,7 +104,13 @@ abbr {text-decoration: none;}
 <ol class="rounded-list">
 <li><a href="https://pan.baidu.com/s/1smwEhoL" target="_blank">visio简单制图 （密码aysm）</a></li>
 <li><a href="http://mp.weixin.qq.com/s/zGXI2L2GWmrpQAxX_6518w" target="_blank">PS正版软件（附注册码-来源于学通网络）</a></li>
-<li><a href="https://pan.baidu.com/s/1dGxcA5N" target="_blank">citespace知识图谱（文献计量）软件（密码46c7）</a></li>
+<li><a href="http://cluster.ischool.drexel.edu/~cchen/citespace/" target="_blank">CSSS知识图谱1（文献计量）软件:citaspace</a></li>
+<li><a href="http://www.vosviewer.com/" target="_blank">CSSS知识图谱2:vosviewer</a></li>
+<li><a href="http://www.safemetrics.risk-technologies.com/" target="_blank">CSSS知识图谱3:safemetrics</a></li>
+<li><a href="http://blog.sciencenet.cn/u/ChaomeiChen" target="_blank">CSSS知识图谱4:scientometrics</a></li>
+<li><a href="http://mp.weixin.qq.com/s/VE0BaA16DQhoePWEZ4zKgw" target="_blank">科研作图：Origin/Graphpad</a></li>
+<li><a href="http://bbs.pinggu.org/thread-6182795-1-1.html" target="_blank">结构方程模型：AMOS</a></li>
+<li><a href="http://blog.csdn.net/xieyan0811/article/details/60962955" target="_blank">自然语言处理</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">各大公司前端站点</h4><hr>
 <ol class="rectangle-list">
