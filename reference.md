@@ -13,7 +13,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EasyCharts图表插件  （密码12nx,下同)）</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="秒速检索电脑内文档">Everything文档搜索器</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="一个鼠标手势秒速操作程序，取代快捷键"> WGestures 桌面手势插件</abbr></a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="桌面程序管理器，与wGestures更配哦>Rolan</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="桌面程序管理器，与wGestures更配哦”>Rolan</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="小白翻墙利器">ss/lantern翻墙</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">office暴风激活工具</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="免账号知网下载插件（途径一）">cnki-downloader知网免账号下载插件</abbr></a></li>
@@ -88,11 +88,11 @@ abbr {text-decoration: none;}
 </ol>
 <hr><h4 class="btn btn-info btn-lg">数据基础分析软件/程序</h4><hr>
 <ol class="rectangle-list">
-<li><a href="https://github.com/jobbole/awesome-javascript-cn" target="_blank">数据采集：python/R语言</a></li>
+<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据采集：python/R语言</a></li>
 <!--图库-->
-<li><a href="http://www.iconfont.cn/" target="_blank">问卷数据整理：Epidate</a></li>
+<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">问卷数据整理：Epidate</a></li>
 <li><a href="https://pan.baidu.com/s/1qZjiYSW" target="_blank">数据可视化：Pwer Bi  (密码cwkw)</a></li>
-<li><a href="https://pan.baidu.com/s/1hsY9W00" target="_blank">基础数据分析:spss(主为菜单式)、SQL系列 （密码tz4m)</a></li>
+<li><a href="https://pan.baidu.com/s/1hsY9W00" target="_blank">基础数据分析:spss(主菜单式)、SQL系列 （密码tz4m)</a></li>
 <li><a href="https://pan.baidu.com/s/1i6xAyZN" target="_blank">计量分析：EVIEWS  (密码z16f)</a></li>
 <li><a href="https://pan.baidu.com/s/1c4bGiZY" target="_blank">数据分析进阶：SAS/state（半菜单半编程） （密码ia5k)</a></li>
 <li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据分析进阶：R语言/python（编程式） (密码ub05)</a></li>
@@ -121,7 +121,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.clipconverter.cc/" target="_blank">youtube资源下载</a></li>
 <li><a href="http://www.bazhuayu.com/?utm_campaign=baidu&utm_medium=pc11611&utm_source=30&utm_content=%E7%BD%91%E9%A1%B5&utm_term=%E7%BD%91%E9%A1%B5%E4%B8%8B%E8%BD%BD%E5%99%A8" target="_blank">八爪鱼网页采集（文档、视频、图片、音乐）</a></li>
 <li><a href="http://bbs.pinggu.org/" target="_blank">经管之家论坛</a></li>
-<li><a href="https://www.w3cschool.cn/" target="_blank">W3w3cschool</a></li>
+<li><a href="https://www.w3cschool.cn/" target="_blank">W3cschool</a></li>
 <li><a href="http://www.51cto.com/" target="_blank">51cto</a></li>
 <li><a href="http://www.1xuezhe.com/" target="_blank">壹学者学术平台</a></li>
 <li><a href="http://www.yuntougao.com/wx/" target="_blank">免账号知网下载（途径二）</a></li>
