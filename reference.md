@@ -13,7 +13,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EasyCharts图表插件  （密码12nx,下同)）</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="秒速检索电脑内文档">Everything文档搜索器</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="一个鼠标手势秒速操作程序，取代快捷键"> WGestures 桌面手势插件</abbr></a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="桌面程序管理器，与wGestures更配哦”>Rolan</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title=""桌面程序管理器，与wGestures更配哦">Rolan</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="小白翻墙利器">ss/lantern翻墙</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">office暴风激活工具</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="免账号知网下载插件（途径一）">cnki-downloader知网免账号下载插件</abbr></a></li>

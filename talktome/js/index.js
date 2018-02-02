@@ -2,7 +2,7 @@ var myBot = new BotUI('hello-world');
 
     myBot.message.add({ // show a message
       delay: 200,
-      content: 'Hello, my name is Lv Xiong.'
+      content: 'Hello, my master is Lv Xiong.'
     }).then (function (){
       myBot.message.add({
         delay: 1000,
