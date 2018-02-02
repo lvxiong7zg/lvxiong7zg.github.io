@@ -1,6 +1,6 @@
 ---
 layout: copy
-title: 哎呦喂！！！
+title: 小店物薄，有需请用
 date: 2017-04-01 13:15:15 +0800
 permalink: /reference/
 ---
@@ -8,105 +8,124 @@ permalink: /reference/
 <style>
 abbr {text-decoration: none;}
 </style>
-<hr><h4 class="btn btn-info btn-lg">JavaScript相关</h4><hr>
+<hr><h4 class="btn btn-info btn-lg">插件</h4><hr>
 <ol class="rectangle-list">
-<li><a href="http://react-china.org/" target="_blank">React China</a></li>
-<li><a href="http://www.jstips.co/" target="_blank"><abbr title="每天提供一个JavaScript小tip">JS TIPS</abbr></a></li>
-<li><a href="http://javascript-puzzlers.herokuapp.com/" target="_blank"><abbr title="也许你并不太懂JavaScript">JavaScript Puzzlers!</abbr></a></li>
-<li><a href="https://javascript.info/" target="_blank">React China</a></li>
-<li><a href="https://jsperf.com/" target="_blank"><abbr title="js性能测试网站">js perf</abbr></a></li>
-<li><a href="http://ecma-international.org/ecma-262/5.1/" target="_blank">ES5 标准协议</a></li>
-<li><a href="http://yanhaijing.com/es5/#about" target="_blank">ES5 标准协议(中文译本)</a></li>
-<li><a href="http://www.ecma-international.org/ecma-262/6.0/" target="_blank">ES6 标准协议</a></li>
-<li><a href="http://kangax.github.io/compat-table/es6/" target="_blank">JavaScript 浏览器兼容性</a></li>
-<li><a href="https://www.gitbook.com/explore" target="_blank">Gitbook explore</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EasyCharts图表插件  （密码12nx,下同)）</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="秒速检索电脑内文档">Everything文档搜索器</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="一个鼠标手势秒速操作程序，取代快捷键"> WGestures 桌面手势插件</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><桌面程序管理器，与wGestures更配哦>Rolan</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="小白翻墙利器">ss/lantern翻墙</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">office暴风激活工具</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="免账号知网下载插件（途径一）">cnki-downloader知网免账号下载插件</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCELtool / excelwangnengbai</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL零一工具箱</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL: power Query</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">WoldKutools</a></li>
 <!--JSON验证-->
-<li><a href="https://jsonformatter.curiousconcept.com/" target="_blank">JSON Formatter &amp; Validator</a></li>
-<li><a href="http://jsoneditoronline.org/" target="_blank">JSON Editor Online</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件1：Nordri Tools(iSlide前身)</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件2：iSlideTools.Setup.Online.2.5.0</a></li>
 <!--js库-->
-<li><a href="https://threejs.org/" target="_blank">three.js</a></li>
-<li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
-<li><a href="http://www.typescriptlang.org/index.html" target="_blank">TypeScript</a></li>
-<li><a href="https://babeljs.io/" target="_blank">Babel</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件3:PocketAnimation</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">jQuery 插件库</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">chrome浏览器插件库：免VIP视频播放、页页面采集等</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">IDMan运营新人</a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">Node相关</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">设计网址</h4><hr>
 <ol class="rounded-list">
-<li><a href="https://nodeschool.io/" target="_blank">NODESCHOOL</a></li>
-<li><a href="http://expressjs.com/" target="_blank">Express</a></li>
-<li><a href="https://github.com/senchalabs/connect" target="_blank">Connect</a></li>
-<li><a href="https://pugjs.org/api/getting-started.html" target="_blank">Pug</a></li>
-<li><a href="https://git-scm.com/docs" target="_blank">Git Reference</a></li>
+<li><a href="http://hao.uisdc.com/" target="_blank">SDC设计师网址</a></li>
+<li><a href="http://hao.shejidaren.com/" target="_blank">设计导航</a></li>
+<li><a href="http://dh.woshipm.com/" target="_blank">产品经理网址导航</a></li>
+<li><a href="http://www.pinmie.com/tool/" target="_blank">图翼网</a></li>
+<li><a href="http://www.yiihuu.com/" target="_blank">翼狐网</a></li>
+<li><a href="http://www.fengniao.com/" target="_blank">蜂鸟网（影像门户）</a></li>
+<li><a href="http://www.officeplus.cn/Template/Home.shtml" target="_blank">OfficePLUS微软模板</a></li>
 </ol>
-<hr><h4 class="btn btn-info btn-lg">CDN</h4><hr>
+<hr><h4 class="btn btn-info btn-lg">设计素材</h4><hr>
 <ol class="rectangle-list">
 <!--国外-->
-<li><a href="https://cdnjs.com/" target="_blank">cdnjs</a></li>
-<li><a href="http://www.jsdelivr.com/" target="_blank">JSDELIVR</a></li>
+<li><a href="http://upuptoyou.com/" target="_blank">字体1：UPUP拍立得</a></li>
+<li><a href="https://wordart.com/create" target="_blank">字体2：文字云</a></li>
 <!--国内-->
-<li><a href="http://www.bootcdn.cn/" target="_blank">BootCDN</a></li>
+<li><a href="http://ocr.wdku.net/" target="_blank">字体3：字体识别</a></li>
+<li><a href="http://sicangziti.com/" target="_blank">字体4：字体收藏</a></li>
+<li><a href="http://www.qiuziti.com/" target="_blank">字体5：字体下载</a></li>
+<li><a href="http://www.iconfont.cn" target="_blank">图片1：阿里巴巴图标</a></li>
+<li><a href="http://www.58pic.com/" target="_blank">图片2：千图网</a></li>
+<li><a href="https://huaban.com/" target="_blank">图片3：花瓣网</a></li>
+<li><a href="http://www.hituyu.com/" target="_blank">图片4：图鱼</a></li>
+<li><a href="http://699pic.com/?sem=1&sem_kid=876" target="_blank">图片5：摄图网</a></li>
+<li><a href="https://pixabay.com/" target="_blank">图片6：Pixabay(免费)</a></li>
+<li><a href="https://cn.freeimages.com/" target="_blank">图片7：freeimages</a></li>
+<li><a href="https://unsplash.com/" target="_blank">图片8：unsplash</a></li>
+<li><a href="https://nos.twnsnd.co/" target="_blank">图片9：复古图片</a></li>
+<li><a href="https://www.pexels.com/" target="_blank">图片10：pexel</a></li>
+<li><a href="https://500px.com/" target="_blank">图片11：500PX</a></li>
+<li><a href="https://www.ssyer.com/" target="_blank">图片12：别样网</a></li>
 <li><a href="http://cdn.code.baidu.com/" target="_blank">百度静态资源公共库</a></li>
+<li><a href="https://mubu.com/" target="_blank">幕布</a></li>
+<li><a href="http://zhitu.isux.us/" target="_blank">智图</a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">CSS/HTML相关</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">在线课堂</h4><hr>
 <ol class="rounded-list">
 <!--CSS/HTML API-->
 
-<li><a href="https://spec.whatwg.org/" target="_blank">WHATWG</a></li>
-<li><a href="https://www.w3.org/standards/webdesign/" target="_blank">W3C标准</a></li>
-<li><a href="https://www.w3.org/TR/tr-technology-stds" target="_blank">W3C标准协议</a></li>
-<li><a href="https://www.w3.org/TR/CSS22/" target="_blank">CSS 2.2</a></li>
-<li><a href="http://www.w3school.com.cn/index.html" target="_blank">W3school</a></li>
-<li><a href="https://tympanus.net/codrops/css_reference/" target="_blank">CSS reference</a></li>
-<li><a href="http://www.dcloud.io/docs/api/index.shtml" target="_blank">HTML5+ API Reference</a></li>
-<li><a href="http://cssreference.io/" target="_blank">cssreference.io</a></li>
-<li><a href="http://htmlreference.io/" target="_blank">htmlreference.io</a></li>
-<li><a href="http://screensiz.es/" target="_blank">Screen Siz.es</a></li>
-<li><a href="http://css.doyoe.com/" target="_blank">CSS 参考手册</a></li>
+<li><a href="http://www.jikexueyuan.com/course/dig/" target="_blank">极客学院</a></li>
+<li><a href="https://chuanke.baidu.com" target="_blank">百度传课</a></li>
+<li><a href="http://www.imooc.com/" target="_blank">慕课网</a></li>
+<li><a href="http://study.163.com/" target="_blank">网易云课堂</a></li>
+<li><a href="http://www.icourses.cn/home/" target="_blank">爱课程</a></li>
+<li><a href="http://www.class.cn/index/open" target="_blank">中国教育在线</a></li>
+<li><a href="http://www.fenbi.com/web/" target="_blank">粉笔网</a></li>
+<li><a href="http://www.duobei.com/" target="_blank">多贝公开课</a></li>
+<li><a href="https://www.coursera.org/courses" target="_blank">courses</a></li>
+<li><a href="https://www.edx.org/" target="_blank">edx</a></li>
+<li><a href="http://www.hubwiz.com/course/" target="_blank">汇智网</a></li>
 <li><a href="https://isux.tencent.com/css3/index.html" target="_blank">CSS 动画手册</a></li>
-<!--CSS库/资源-->
-<li><a href="http://bulma.io/" target="_blank"><abbr title="A modern CSS framework based on Flexbox">Bulma</abbr></a></li>
-<li><a href="https://daneden.github.io/animate.css/" target="_blank">Animate.css</a></li>
-<li><a href="http://cssicon.space/#/" target="_blank">CSS ICON</a></li>
-</ol>
-<hr><h4 class="btn btn-info btn-lg">资源网站</h4><hr>
-<ol class="rectangle-list">
-<li><a href="https://github.com/jobbole/awesome-javascript-cn" target="_blank">awesome-javascript-cn</a></li>
-<!--图库-->
-<li><a href="http://zhitu.isux.us/" target="_blank"><abbr title="高效优质的图片优化平台">智图</abbr></a></li>
-<li><a href="http://www.iconfont.cn/" target="_blank">阿里巴巴矢量图库</a></li>
-<li><a href="http://fontawesome.io/" target="_blank">Font Awesome</a></li>
-<li><a href="https://www.123rf.com/" target="_blank">123rf</a></li>
-<li><a href="http://huaban.com/" target="_blank">花瓣网</a></li>
-<li><a href="https://unsplash.it/" target="_blank"><abbr title="利用unsplash免费照片来提供placehoder的网站">Unsplash It</abbr></a></li>
 <li><a href="http://baconipsum.com/" target="_blank"><abbr title="提供文本填充器的网站">Bacon IPsum</abbr></a></li>
 <li><a href="https://placeholder.com/" target="_blank"><abbr title="提供占位符图片的网站">PLACEHOLDER.COM</abbr></a></li>
 <li><a href="https://dummyimage.com/" target="_blank"><abbr title="提供多类型占位符图片的网站">Dummy Image Generator</abbr></a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">博客</h4><hr>
-<ol class="rounded-list">
-<li><a href="http://xiaokedada.com/" target="_blank">小可嗒嗒的博客</a></li>
-<li><a href="http://ghmagical.com/" target="_blank">TG的博客</a></li>
-<li><a href="http://2ality.com/p/about.html" target="_blank">2ality</a></li>
+<hr><h4 class="btn btn-info btn-lg">数据基础分析软件/程序</h4><hr>
+<ol class="rectangle-list">
+<li><a href="https://github.com/jobbole/awesome-javascript-cn" target="_blank">数据采集：python/R语言</a></li>
+<!--图库-->
+<li><a href="http://www.iconfont.cn/" target="_blank">问卷数据整理：Epidate</a></li>
+<li><a href="https://pan.baidu.com/s/1qZjiYSW" target="_blank">数据可视化：Pwer Bi  (密码cwkw)</a></li>
+<li><a href="https://pan.baidu.com/s/1hsY9W00" target="_blank">基础数据分析:spss(主为菜单式)、SQL系列 （密码tz4m)</a></li>
+<li><a href="https://pan.baidu.com/s/1i6xAyZN" target="_blank">计量分析：EVIEWS  (密码z16f)</a></li>
+<li><a href="https://pan.baidu.com/s/1c4bGiZY" target="_blank">数据分析进阶：SAS/state（半菜单半编程） （密码ia5k)</a></li>
+<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据分析进阶：R语言/python（编程式） (密码ub05)</a></li>
+<li><a href="https://pan.baidu.com/s/1qZLcGfq" target="_blank">数据挖掘：Hadoop/spark/R语言/python（编程式）  （密码i 1h2）</a></li>
+
+
 </ol>
-<hr><h4 class="btn btn-info btn-lg">各大公司的前端站点</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">其他软件</h4><hr>
+<ol class="rounded-list">
+<li><a href="https://pan.baidu.com/s/1smwEhoL" target="_blank">visio简单制图 （密码aysm）</a></li>
+<li><a href="http://mp.weixin.qq.com/s/zGXI2L2GWmrpQAxX_6518w" target="_blank">PS正版软件（附注册码-来源于学通网络）</a></li>
+<li><a href="https://pan.baidu.com/s/1kWv40Zl" target="_blank">citespace知识图谱（文献计量）软件（密码yrhv）</a></li>
+</ol>
+<hr><h4 class="btn btn-info btn-lg">各大公司前端站点</h4><hr>
 <ol class="rectangle-list">
 <li><a href="http://fex.baidu.com/" target="_blank">百度 FEX</a></li>
 <li><a href="http://taobaofed.org/" target="_blank">淘宝 FED</a></li>
 <li><a href="http://cdc.tencent.com/" target="_blank">腾讯 CDC</a></li>
-<li><a href="http://ued.ctrip.com/blog/" target="_blank">携程 UED</a></li>
 <li><a href="https://isux.tencent.com/" target="_blank">腾讯 ISUX</a></li>
 <li><a href="http://tgideas.qq.com/" target="_blank">腾讯T GIdeas</a></li>
 <li><a href="https://jdc.jd.com/" target="_blank">京东设计中心 JDC</a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">综合站点</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">其它站点</h4><hr>
 <ol class="rounded-list">
-<li><a href="https://restlet.com/http-status-map/" target="_blank">HTTP Status Map</a></li>
-<li><a href="https://aotu.io/index.html" target="_blank">凹凸实验室</a></li>
-<li><a href="https://insights.stackoverflow.com/survey/" target="_blank">Stack Overflow Annual Developer Survey</a></li>
-<li><a href="https://developers.google.com/speed/pagespeed/insights/?hl=zh-CN" target="_blank">PageSpeed Insights</a></li>
-<li><a href="http://en.cppreference.com/w/" target="_blank">C++ 参考手册</a></li>
-<li><a href="https://developers.google.com/web/tools/chrome-devtools/" target="_blank">Chrome DevTools</a></li>
-<li><a href="http://code.flickr.net/" target="_blank">Flickr 技术博客</a></li>
-<li><a href="http://gen.lib.rus.ec/#" target="_blank">Library Genesis</a></li>
+<li><a href="https://en.ss8.fun/" target="_blank">SS翻墙网（结合ss插件）</a></li>
+<li><a href="http://www.clipconverter.cc/" target="_blank">youtube资源下载</a></li>
+<li><a href="http://www.bazhuayu.com/?utm_campaign=baidu&utm_medium=pc11611&utm_source=30&utm_content=%E7%BD%91%E9%A1%B5&utm_term=%E7%BD%91%E9%A1%B5%E4%B8%8B%E8%BD%BD%E5%99%A8" target="_blank">八爪鱼网页数据采集</a></li>
+<li><a href="http://bbs.pinggu.org/" target="_blank">经管之家论坛</a></li>
+<li><a href="https://www.w3cschool.cn/" target="_blank">W3w3cschool</a></li>
+<li><a href="http://www.51cto.com/" target="_blank">51cto</a></li>
+<li><a href="http://www.1xuezhe.com/" target="_blank">壹学者学术平台</a></li>
+<li><a href="http://www.yuntougao.com/wx/" target="_blank">免账号知网下载（途径二）</a></li>
+<li><a href="https://www.csdn.net" target="_blank">CSDN论坛</a></li>
+<li><a href="http://www.nlc.cn/" target="_blank">中国国家图书馆</a></li>
 
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
