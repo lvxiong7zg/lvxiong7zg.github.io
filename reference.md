@@ -104,7 +104,7 @@ abbr {text-decoration: none;}
 <ol class="rounded-list">
 <li><a href="https://pan.baidu.com/s/1smwEhoL" target="_blank">visio简单制图 （密码aysm）</a></li>
 <li><a href="http://mp.weixin.qq.com/s/zGXI2L2GWmrpQAxX_6518w" target="_blank">PS正版软件（附序列号-来源于学通网络）</a></li>
-<li><a href="http://cluster.ischool.drexel.edu/~cchen/citespace/" target="_blank">CSSS知识图谱1（文献计量）软件:citaspace</a></li>
+<li><a href="http://cluster.ischool.drexel.edu/~cchen/citespace/" target="_blank">CSSS知识图谱1（文献计量）软件:citespace</a></li>
 <li><a href="http://www.vosviewer.com/" target="_blank">CSSS知识图谱2:vosviewer</a></li>
 <li><a href="http://www.safemetrics.risk-technologies.com/" target="_blank">CSSS知识图谱3:safemetrics</a></li>
 <li><a href="http://blog.sciencenet.cn/u/ChaomeiChen" target="_blank">CSSS知识图谱4:scientometrics</a></li>
