@@ -17,11 +17,11 @@ date: 2018-01-10 18:34:51 +0800
 
 首页：
 
-<img src="{{ '/road/images/1.png' | prepend: site.baseurl }}" />
+<img src="{{ '/road/images/1.jpg' | prepend: site.baseurl }}" />
 
 -----------------------------------------
 
-<img src="{{ '/road/images/2.png' | prepend: site.baseurl }}" />
+<img src="{{ '/road/images/2.jpg' | prepend: site.baseurl }}" />
 
 -----------------------------------------
 
