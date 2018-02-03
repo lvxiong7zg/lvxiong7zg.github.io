@@ -1,6 +1,7 @@
 ---
 layout: copy
 title: 小店物薄，有需请用
+header: 资源分享
 date: 2018-01-10 13:15:15 +0800
 permalink: /reference/
 ---
