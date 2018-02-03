@@ -1,7 +1,7 @@
 ---
 layout: copy
 title: 小店物薄，有需请用
-date: 2017-04-01 13:15:15 +0800
+date: 2018-01-10 13:15:15 +0800
 permalink: /reference/
 ---
 
@@ -90,13 +90,13 @@ abbr {text-decoration: none;}
 <ol class="rectangle-list">
 <li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据采集：python/R语言</a></li>
 <!--图库-->
-<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">问卷数据整理：Epidata</a></li>
+<li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">问卷数据录入：Epidata</a></li>
 <li><a href="https://pan.baidu.com/s/1qZjiYSW" target="_blank">数据可视化：Pwer Bi  (密码cwkw)</a></li>
 <li><a href="https://pan.baidu.com/s/1hsY9W00" target="_blank">基础数据分析:spss(主菜单式)、SQL系列 （密码tz4m)</a></li>
 <li><a href="https://pan.baidu.com/s/1i6xAyZN" target="_blank">计量分析：EVIEWS  (密码z16f)</a></li>
 <li><a href="https://pan.baidu.com/s/1c4bGiZY" target="_blank">数据分析进阶：SAS/stata（半菜单半编程） （密码ia5k)</a></li>
 <li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据分析进阶：R语言/python（编程式） (密码ub05)</a></li>
-<li><a href="https://pan.baidu.com/s/1qZLcGfq" target="_blank">数据挖掘：Hadoop/spark/R语言/python（编程式）  （密码i 1h2）</a></li>
+<li><a href="https://pan.baidu.com/s/1qZLcGfq" target="_blank">数据挖掘：Hadoop/spark/R语言/python（编程式）  （密码i1h2）</a></li>
 
 
 </ol>
@@ -138,5 +138,5 @@ abbr {text-decoration: none;}
 <ol class="rectangle-list">
 <li><a href="https://www.codewars.com/" target="_blank">Code Kata</a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">努力更新中...</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">更多资源，下期更新...</h4><hr>
 <ol class="rounded-list">
