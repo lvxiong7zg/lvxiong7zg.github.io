@@ -22,3 +22,23 @@ layout: default
         </div>
     </div>
 </div>
+
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+  var gitment = new Gitment({
+    id: window.location.pathname,
+    owner: 'lvxiong7zg',
+    repo: 'lvxiong7zg.github.io',
+    oauth: {
+    client_id: '6553cfd5c295a1582a1a',
+    client_secret: '70b95a856ac663d4456fd82f19c7633069c83503',
+    },
+  })
+  gitment.render('container')
+</script>
+
+</div>
+</div>
+</div>
