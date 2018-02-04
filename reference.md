@@ -29,7 +29,7 @@ abbr {text-decoration: none;}
 <!--js库-->
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件4:PocketAnimation</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">jQuery 插件库</a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
+<li><a href="http://www.wangqianfang.com/1215.html" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">IDMan运营新人</a></li>
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">设计网址</h4><hr>
@@ -130,7 +130,7 @@ abbr {text-decoration: none;}
 <li><a href="http://bbs.pinggu.org/" target="_blank">经管之家论坛</a></li>
 <li><a href="https://www.w3cschool.cn/" target="_blank">W3cschool</a></li>
 <li><a href="http://www.51cto.com/" target="_blank">51cto</a></li>
-<li><a href="http://www.1xuezhe.com/" target="_blank">壹学者学术平台</a></li>
+<li><a href="http://www.1xuezhe.com/" target="_blank">壹学者/小木虫学术平台</a></li>
 <li><a href="http://www.yuntougao.com/wx/" target="_blank">免账号知网下载（途径二）</a></li>
 <li><a href="https://www.csdn.net" target="_blank">CSDN论坛</a></li>
 <li><a href="http://www.nlc.cn/" target="_blank">中国国家图书馆</a></li>
