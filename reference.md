@@ -28,7 +28,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件3：iSlideTools.Setup.Online.2.5.0</a></li>
 <!--js库-->
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件4:PocketAnimation</a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">jQuery 插件库</a></li>
+<li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
 <li><a href="http://www.wangqianfang.com/1215.html" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">IDMan运营新人</a></li>
 </ol>
