@@ -45,7 +45,7 @@ abbr {text-decoration: none;}
 <li><a href="https://www.newrank.cn/" target="_blank">新榜</a></li>
 <li><a href="https://www.sxl.cn" target="_blank">上线了</a></li>
 <li><a href="http://www.9thws.com/" target="_blank">第九工厂</a></li>
-<li><a href="https://www.chuangkit.com/" target="_blank">创可贴</a></li>
+<li><a href="https://www.chuangkit.com/" target="_blank">创客贴</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">设计素材</h4><hr>
 <ol class="rectangle-list">
