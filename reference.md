@@ -31,6 +31,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
 <li><a href="http://www.wangqianfang.com/1215.html" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">IDMan运营新人</a></li>
+<li><a href=https://xmt.cn/index" target="_blank">新媒体管家</a></li>
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">设计网址</h4><hr>
 <ol class="rounded-list">
@@ -41,6 +42,10 @@ abbr {text-decoration: none;}
 <li><a href="http://www.yiihuu.com/" target="_blank">翼狐网</a></li>
 <li><a href="http://www.fengniao.com/" target="_blank">蜂鸟网（影像门户）</a></li>
 <li><a href="http://www.officeplus.cn/Template/Home.shtml" target="_blank">OfficePLUS微软模板</a></li>
+<li><a href="https://www.newrank.cn/" target="_blank">新榜</a></li>
+<li><a href="https://www.sxl.cn" target="_blank">上线了</a></li>
+<li><a href="http://www.9thws.com/" target="_blank">第九工厂</a></li>
+<li><a href="https://www.chuangkit.com/" target="_blank">创可贴</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">设计素材</h4><hr>
 <ol class="rectangle-list">
@@ -67,6 +72,17 @@ abbr {text-decoration: none;}
 <li><a href="http://cdn.code.baidu.com/" target="_blank">百度静态资源公共库</a></li>
 <li><a href="https://mubu.com/" target="_blank">幕布</a></li>
 <li><a href="http://zhitu.isux.us/" target="_blank">智图</a></li>
+</ol>
+<hr><h4 class="btn btn-info btn-lg">网络监测工具</h4><hr>
+<ol class="rectangle-list">
+<li><a href="http://www.moojnn.com/" target="_blank">魔镜</a></li>
+<li><a href="http://ictclas.nlpir.org/nlpir/" target="_blank">语义分析系统</a></li>
+<li><a href="http://yuqing.gsdata.cn/" target="_blank">清博舆情系统</a></li>
+<li><a href="http://chuanbo.datastory.com.cn/" target="_blank">H5传播分析工具</a></li>
+<li><a href="http://mta.qq.com/" target="_blank">腾讯云分析</a></li>
+<li><a href="http://www.51.la/" target="_blank">51.la</a></li>
+<li><a href="http://www.kmsocial.cn" target="_blank">孔明社会化媒体管理</a></li>
+<li><a href="http://www.kanzhihu.com/useranalysis" target="_blank">知乎用户深度分析</a></li>
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">在线课堂</h4><hr>
 <ol class="rounded-list">
@@ -104,7 +120,6 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1qZLcGfq" target="_blank">数据挖掘：Hadoop/spark/R语言/python/Spss Modeler（编程式）  （密码i1h2）</a></li>
 <li><a href="http://bbs.pinggu.org/thread-6182795-1-1.html" target="_blank">结构方程模型：AMOS</a></li>
 <li><a href="http://blog.csdn.net/xieyan0811/article/details/60962955" target="_blank">自然语言处理NLP</a></li>
-
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">其他软件</h4><hr>
 <ol class="rounded-list">
@@ -154,3 +169,9 @@ abbr {text-decoration: none;}
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">更多资源，下期更新...</h4><hr>
 <ol class="rounded-list">
+
+
+···YMAL
+2018-01-10搭建
+2018-02-25第一次更新：插件、设计网址、网络监测工具
+···
