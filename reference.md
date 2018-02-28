@@ -6,6 +6,7 @@ date: 2018-01-10 13:15:15 +0800
 permalink: /reference/
 ---
 
+
 <style>
 abbr {text-decoration: none;}
 </style>
@@ -15,7 +16,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="秒速检索电脑内文档">Everything文档搜索器</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="一个鼠标手势秒速操作程序，取代快捷键"> WGestures 桌面手势插件</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="桌面程序管理器，与wGestures更配哦">Rolan</abbr></a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="小白翻墙利器">ss/lantern翻墙</abbr></a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="小白翻墙利器">ss/lantern/自由门翻墙</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">office暴风激活工具</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="免账号知网下载插件（途径一）">cnki-downloader知网免账号下载插件</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCELtool / excelwangnengbai</a></li>
@@ -31,7 +32,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
 <li><a href="http://www.wangqianfang.com/1215.html" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">IDMan运营新人</a></li>
-<li><a href=https://xmt.cn/index" target="_blank">新媒体管家</a></li>
+<li><a href="https://xmt.cn/index" target="_blank">新媒体管家</a></li>
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">设计网址</h4><hr>
 <ol class="rounded-list">
@@ -82,7 +83,17 @@ abbr {text-decoration: none;}
 <li><a href="http://mta.qq.com/" target="_blank">腾讯云分析</a></li>
 <li><a href="http://www.51.la/" target="_blank">51.la</a></li>
 <li><a href="http://www.kmsocial.cn" target="_blank">孔明社会化媒体管理</a></li>
+<li><a href="https://zhugeio.com/" target="_blank">诸葛IO：用户行为洞察（友盟）</a></li>
 <li><a href="http://www.kanzhihu.com/useranalysis" target="_blank">知乎用户深度分析</a></li>
+</ol>
+<hr><h4 class="btn btn-info btn-lg">爬虫工具</h4><hr>
+<ol class="rectangle-list">
+<li><a href="http://www.bazhuayu.com/" target="_blank">八爪鱼</a></li>
+<li><a href="https://www.zaoshu.io/index.html" target="_blank">造数</a></li>
+<li><a href="http://www.sensite.cn/bget/" target="_blank">神采</a></li>
+<li><a href="https://www.web2data.com/" target="_blank">瑞雪</a></li>
+<li><a href="http://www.51pashanhu.com/" target="_blank">爬山虎</a></li>
+<li><a href="http://www.jisouke.com/" target="_blank">集搜客</a></li>
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">在线课堂</h4><hr>
 <ol class="rounded-list">
@@ -145,12 +156,10 @@ abbr {text-decoration: none;}
 <ol class="rounded-list">
 <li><a href="https://en.ss8.fun/" target="_blank">SS翻墙网（结合ss插件）</a></li>
 <li><a href="http://www.clipconverter.cc/" target="_blank">youtube资源下载</a></li>
-<li><a href="http://www.bazhuayu.com/?utm_campaign=baidu&utm_medium=pc11611&utm_source=30&utm_content=%E7%BD%91%E9%A1%B5&utm_term=%E7%BD%91%E9%A1%B5%E4%B8%8B%E8%BD%BD%E5%99%A8" target="_blank">八爪鱼网页采集（文档、视频、图片、音乐）</a></li>
 <li><a href="http://bbs.pinggu.org/" target="_blank">经管之家论坛</a></li>
 <li><a href="https://www.w3cschool.cn/" target="_blank">W3cschool</a></li>
 <li><a href="http://www.51cto.com/" target="_blank">51cto</a></li>
 <li><a href="http://www.demo8.com/demo/44742/infogr.am" target="_blank">i.a：数据可视化制作平台</a></li>
-<li><a href="https://zhugeio.com/" target="_blank">诸葛IO：用户行为洞察（友盟）</a></li>
 <li><a href="http://www.demo8.com/demo/43813/%E5%90%AC%E9%81%93" target="_blank">听道</a></li>
 <li><a href="http://www.demo8.com/demo/26238/Workflow" target="_blank">Workflow流程系统</a></li>
 <li><a href="http://www.demo8.com/demo/31308/%E5%8F%AE%E5%BD%93" target="_blank">叮当：APP自助生产运营平台</a></li>
@@ -167,11 +176,12 @@ abbr {text-decoration: none;}
 <ol class="rectangle-list">
 <li><a href="https://www.codewars.com/" target="_blank">Code Kata</a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">更多资源，下期更新...</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">更多资源，第三期更新...</h4><hr>
 <ol class="rounded-list">
 
 
-···YMAL
+```YMAL
 2018-01-10搭建
-2018-02-25第一次更新：插件、设计网址、网络监测工具
-···
+2018-02-25第一期更新：插件、设计网址、网络监测工具
+2018-02-28第二期更新：爬虫软件、自由门翻墙（~~感谢肖**分享~~）
+```
