@@ -31,7 +31,14 @@ date: 2018-01-13 19:31:51 +0800
 <p align="right">——《菜根谭》</p>
 <p align="right">2018年01月12日 记</p>
 -----------------------------------------
-
-
+**转载：**
+1、['CNN卷积神经网络原理讲解'](http://mp.weixin.qq.com/s/AebGQCVLBJsG8RWVLORPwQ)
+2、['9幅图快速理解支持向量机（SVM）的工作原理'](http://mp.weixin.qq.com/s/xrgx-sDlbln4McFpoJ-1iQ)
+3、['自然语言处理(NLP)'](http://blog.csdn.net/jdbc/article/details/53292414)
+4、['自然语言处理资源合集'](http://blog.csdn.net/the_star_is_at/article/details/79074979)
+5、[' 遗传算法详解'](http://blog.csdn.net/u010451580/article/details/51178225)
+6、['十种数据挖掘算法'](http://bigdata.51cto.com/art/201706/541366.htm)
+7、['《权力的游戏》探索性分析'](http://www.afenxi.com/post/48091)
+-----------------------------------------
 
 >声明: 此博客空间用于分享作者个人的一些文学或技术相关，除特殊说明外，本站文章均采用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"> 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 </a>进行许可。
