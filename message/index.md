@@ -33,14 +33,21 @@ date: 2018-03-04 22:01:51 +0800
 -----------------------------------------
 
 
-**转载：**
-+1、['CNN卷积神经网络原理讲解'](http://mp.weixin.qq.com/s/AebGQCVLBJsG8RWVLORPwQ)
-+2、['9幅图快速理解支持向量机（SVM）的工作原理'](http://mp.weixin.qq.com/s/xrgx-sDlbln4McFpoJ-1iQ)
-+3、['自然语言处理(NLP)'](http://blog.csdn.net/jdbc/article/details/53292414)
-+4、['自然语言处理资源合集'](http://blog.csdn.net/the_star_is_at/article/details/79074979)
-+5、[' 遗传算法详解'](http://blog.csdn.net/u010451580/article/details/51178225)
-+6、['十种数据挖掘算法'](http://bigdata.51cto.com/art/201706/541366.htm)
-+7、['《权力的游戏》探索性分析'](http://www.afenxi.com/post/48091)
+**转载：** 
+
+1、['CNN卷积神经网络原理讲解'](http://mp.weixin.qq.com/s/AebGQCVLBJsG8RWVLORPwQ)
+
+2、['9幅图快速理解支持向量机（SVM）的工作原理'](http://mp.weixin.qq.com/s/xrgx-sDlbln4McFpoJ-1iQ)  
+
+3、['自然语言处理(NLP)'](http://blog.csdn.net/jdbc/article/details/53292414)
+
+4、['自然语言处理资源合集'](http://blog.csdn.net/the_star_is_at/article/details/79074979)  
+
+5、[' 遗传算法详解'](http://blog.csdn.net/u010451580/article/details/51178225)
+
+6、['十种数据挖掘算法'](http://bigdata.51cto.com/art/201706/541366.htm)  
+
+7、['《权力的游戏》探索性分析'](http://www.afenxi.com/post/48091)  
 
 <p align="right">2018年03月04日 转载</p>
 -----------------------------------------
