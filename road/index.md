@@ -19,7 +19,7 @@ date: 2018-03-05 13:34:51 +0800
 
 -----------------------------------------
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/#/song?id=819439&userid=399765801"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=819439&auto=1&height=66"></iframe>
 
 -----------------------------------------
 
