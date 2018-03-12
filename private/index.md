@@ -15,9 +15,6 @@ if (password != 'lvxiong06')
 
 
 
-<p align="justify">![神经网络全图](http://p4w9ayrxf.bkt.clouddn.com/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%85%A8%E5%9B%BE.png)</p>
-
-
 
 <p align="justify">**人力资源管理师三级证书**</p>
 
