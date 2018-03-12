@@ -1,10 +1,3 @@
----
-layout: copy
-title: 个人资料
-header: 个人资料
-date: 2018-03-12 20:09:51 +0800
----
-
 <html>
 <head>
 <script language="JavaScript">
