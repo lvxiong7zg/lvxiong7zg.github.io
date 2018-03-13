@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: copy
 title: 个人资料
-header: 建站之路
+header: 个人资料
 date: '2018-03-13 09:08:00 +0800'
 ---
 
@@ -18,7 +18,8 @@ if (password != 'lvxiong06')
 </script>
 </head>
 <body>
-<p style="color:red; font-size:20;">恭喜您进入到本网页，您已经被授权查看网页内容！</p>
+<p
+style="color:red; font-size:20;">恭喜您进入到本网页，您已经被授权查看网页内容！
 
 
 
@@ -97,7 +98,7 @@ if (password != 'lvxiong06')
 <p align="justify">![13](http://p5h7svbkm.bkt.clouddn.com/%E5%8D%97%E8%BE%B9%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E9%A6%86%E8%81%98%E4%B9%A6.jpg)</p>
 
 
-
+</p>
 </boody>
 
 </html>
