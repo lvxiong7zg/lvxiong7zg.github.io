@@ -1,9 +1,3 @@
----
-layout: copy
-title: 个人资料
-header: 个人资料
-date: '2018-03-13 09:08:00 +0800'
----
 
 <html>
 <head>
