@@ -18,8 +18,7 @@ if (password != 'lvxiong06')
 </script>
 </head>
 <body>
-<p
-style="color:red; font-size:20;">恭喜您进入到本网页，您已经被授权查看网页内容！
+<p style="color:red; font-size:20;">恭喜您进入到本网页，您已经被授权查看网页内容！</p>
 
 
 
@@ -96,9 +95,3 @@ style="color:red; font-size:20;">恭喜您进入到本网页，您已经被授�
 
 
 <p align="justify">![13](http://p5h7svbkm.bkt.clouddn.com/%E5%8D%97%E8%BE%B9%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E9%A6%86%E8%81%98%E4%B9%A6.jpg)</p>
-
-
-</p>
-</boody>
-
-</html>
