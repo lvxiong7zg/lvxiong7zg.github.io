@@ -13,7 +13,8 @@ if (password != 'lvxiong06')
 </head>
 <body>
 <p style="color:red; font-size:20;">恭喜您进入到本网页，您已经被授权查看网页内容！</p>
-
+</boody>
+</html>
 
 
 
