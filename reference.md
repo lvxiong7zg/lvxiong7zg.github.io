@@ -2,8 +2,9 @@
 layout: copy
 title: 小店物薄，有需请用
 header: 资源分享
-date: 2018-01-10 13:15:15 +0800
+date: '2018-01-10 13:15:15 +0800'
 permalink: /reference/
+published: true
 ---
 
 
@@ -140,7 +141,9 @@ abbr {text-decoration: none;}
 <li><a href="http://www.vosviewer.com/" target="_blank">CSSS知识图谱2:vosviewer/HistCite</a></li>
 <li><a href="http://www.safemetrics.risk-technologies.com/" target="_blank">CSSS知识图谱3:safemetrics</a></li>
 <li><a href="http://blog.sciencenet.cn/u/ChaomeiChen" target="_blank">CSSS知识图谱4:scientometrics</a></li>
-<li><a href="http://mp.weixin.qq.com/s/VE0BaA16DQhoePWEZ4zKgw" target="_blank">科研作图：Origin/Graphpad/SigmaPlot</a></li>
+<li><a href="http://mp.weixin.qq.com/s/VE0BaA16DQhoePWEZ4zKgw" target="_blank">科研作图：Origin/Graphpad/SigmaPlot</a>
+ <li><a href="https://pan.baidu.com/s/1pLrQqYv" target="_blank">质性分析使用教程:NVivo(提取码yitm)</a>
+ </li>
 <li><a href="" target="_blank">英文写作神器：WhiteSmoke</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">各大公司前端站点</h4><hr>
@@ -171,6 +174,7 @@ abbr {text-decoration: none;}
 <li><a href="http://shuge.org/" target="_blank">书格</a></li>
 <li><a href="http://www.zdic.net/" target="_blank">汉典</a></li>
 <li><a href="http://guji.artx.cn/" target="_blank">中国古籍全录</a></li>
+<li><a href="http://www.sciencesoftware.com.cn/Index.aspx" target="_blank">科学软件网</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
 <ol class="rectangle-list">
