@@ -8,7 +8,7 @@ published: true
 -----------------------------------------
 <p align="center">欲求新，先求稳！</p>
 <p align="center">不循旧路，多入死路！</p>
-<p align="center">夫祸患常积于乎微，智勇多困于所溺</p>
+<p align="center">祸患常积于乎微，智勇多困于所溺</p>
 <p align="right">——录以为鉴</p>
 <p align="right">2018年04月02日 记</p>
 
