@@ -1,0 +1,28 @@
+
+
+//基于语义的统计语言模型（LDA） 实现关键词抽取//
+for(int j=0; j< strArray.length;j++)
+{
+String word = strArray [j ]; //获得当前要计算的关键词
+int i= wordIndexMap.get (word) ;//获得给定单词在关键词-短语分布矩阵中的行号
+//计算关键词在指定文档中的短语概率权重
+double word2TopicWeightSum= 0.0 ;
+//遍历所有主题，计算其对于单词i的频次总和
+for (int k= 0; k < topicSize; k++) {
+word2TopicWeightSum += word2Topiccount [i][k] ;}
+double topic2DocWeightSum = 0.0;
+//遍历所有短语，计算其对于文档的频次总和
+for (int k = 0; k < topicSize; k++)
+{
+topic2DocWeightSum += topic2DocCount [m] [k] ;}
+double weightSum = 0.0;
+//遍历所有短语，计算其关键词对于文档的短语概率权重
+for (int k = 0; k < topicSize; k++) {
+double word2TopicWeight = (word2TopicCount [i] [k] +
+beta) / (word2TopicWeightSum + wordSize*beta) ;
+double topic2DocWeight = (topic2DocCount [m] [k] +
+alpha) / (topic2DocWeightSum + topicSize*alpha) ;
+weightSum += word2Topicweight*topic2DocWeight;
+}
+resultMap.put (word,weightSum) ;
+}

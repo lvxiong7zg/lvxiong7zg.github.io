@@ -2,7 +2,7 @@
 layout: copy
 title: 小店物薄，有需请用
 header: 资源分享
-date: 2018-01-10 13:15:15 +0800
+date: 2018-04-06 18:15:15 +0800
 permalink: /reference/
 ---
 
@@ -10,6 +10,15 @@ permalink: /reference/
 <style>
 abbr {text-decoration: none;}
 </style>
+<hr><h4 class="btn btn-info btn-lg">友联博客</h4><hr>
+<ol class="rectangle-list">
+<li><a href="http://www.echodemo.cc/page/2/" target="_blank">EchoDemo's Blogs</a></li>
+<li><a href="http://www.lizhenlong.com/" target="_blank">浒晓默</a></li>
+<li><a href="http://www.ruanyifeng.com/home.html" target="_blank">阮一峰</a></li>
+<li><a href="https://blog.growingio.com/?utm_source=zhihu&utm_medium=qa&utm_campaign=q19732600&utm_content=161019-blog-recommended&utm_term=data-analyse" target="_blank"> GrowingIO</a></li>
+<li><a href="http://blog.sina.com.cn/greatdoor" target="_blank">Wayne</a></li>
+<li><a href="http://blog.sciencenet.cn/home.php?mod=space&uid=554179" target="_blank">李杰</a></li>
+</ol>
 <hr><h4 class="btn btn-info btn-lg">插件</h4><hr>
 <ol class="rectangle-list">
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EasyCharts图表插件 / Foxtable插件（密码12nx,下同)）</a></li>
@@ -156,6 +165,7 @@ abbr {text-decoration: none;}
 <ol class="rounded-list">
 <li><a href="https://en.ss8.fun/" target="_blank">SS翻墙网（结合ss插件）</a></li>
 <li><a href="http://www.clipconverter.cc/" target="_blank">youtube资源下载</a></li>
+<li><a href="http://www.techxue.com/dh/" target="_blank">互联网分析沙龙</a></li>
 <li><a href="http://bbs.pinggu.org/" target="_blank">经管之家论坛</a></li>
 <li><a href="https://www.w3cschool.cn/" target="_blank">W3cschool</a></li>
 <li><a href="http://www.51cto.com/" target="_blank">51cto</a></li>
