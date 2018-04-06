@@ -2,7 +2,7 @@
 layout: copy
 title: 小店物薄，有需请用
 header: 资源分享
-date: 2018-04-06 18:15:15 +0800
+date: '2018-04-06 18:15:15 +0800'
 permalink: /reference/
 published: true
 ---
@@ -30,14 +30,18 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">office暴风激活工具</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="免账号知网下载插件（途径一）">cnki-downloader知网免账号下载插件</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCELtool / excelwangnengbai</a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL零一工具箱/方方格子/易用宝</a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL: power Query</a></li>
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL零一工具箱</a></li>
+<li><a href="http://www.ffcell.com/home/products.aspx" target="_blank">EXCEL插件3：方方格子</a></li> 
+<li><a href="http://yyb.excelhome.net/features/" target="_blank">EXCEL插件4：易用宝</a></li>   
+<li><a href="http://www.foxtable.com/" target="_blank">EXCEL插件5：Foxtable</a></li>    
+<li><a href="http://easychart.github.io/post/Easycharts/" target="_blank">EXCEL插件6：EasyCharts</a></li>  
+<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL插件7: power Query</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">WoldKutools</a></li>
 <!--JSON验证-->
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件1：Nordri Tools(iSlide前身)</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件2：OneKeyTools</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件3：iSlideTools.Setup.Online.2.5.0</a></li>
-<li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件4:LV插件</a></li>
+<li><a href="https://pan.baidu.com/s/1bpbHMDT" target="_blank">PPT插件4:LV插件</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件5:PocketAnimation</a></li>
 <li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
 <li><a href="http://www.wangqianfang.com/1215.html" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
