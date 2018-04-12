@@ -2,11 +2,27 @@
 layout: copy
 title: 云墨书林
 header: 云墨书林
-date: '2018-04-12 12:01:51 +0800'
+date: '2018-04-12 23:36:51 +0800'
 published: true
 ---
 
------------------------------------------
+-------------------------------
+[2018年已发表（1、2月）质性研究论文推荐](http://mp.weixin.qq.com/s/HzOiQR1n7sQdH3HP5pwEAg)
+
+[经济发展、制度结构与腐败程度　　
+](https://www.1xuezhe.exuezhe.com/QK/art/567070?subscribe=1&dbcode=1&flag=2)
+
+[信息抽取技术及其在数字图书馆中的应用前景分析](https://www.1xuezhe.exuezhe.com/QK/art/262948?dbcode=1)
+
+[政府反腐败力度与公众清廉感知：差异及解释](https://www.1xuezhe.exuezhe.com/QK/art/581983?dbcode=1)
+
+[圈子腐败的生成逻辑及其治理路径](https://www.1xuezhe.exuezhe.com/QK/art/626987?dbcode=1)
+
+[政策文本计算：一种新的政策文本解读方式](https://www.1xuezhe.exuezhe.com/QK/art/622153?dbcode=1)
+
+
+
+---------
 <p align="center">欲求新，先求稳！</p>
 <p align="center">不循旧路，多入死路！</p>
 <p align="center">祸患常积于乎微，智勇多困于所溺</p>
