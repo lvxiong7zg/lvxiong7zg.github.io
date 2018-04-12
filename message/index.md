@@ -5,6 +5,7 @@ header: 云墨书林
 date: '2018-04-02 18:01:51 +0800'
 published: true
 ---
+
 -----------------------------------------
 <p align="center">欲求新，先求稳！</p>
 <p align="center">不循旧路，多入死路！</p>
@@ -56,6 +57,8 @@ published: true
 6、['十种数据挖掘算法'](http://bigdata.51cto.com/art/201706/541366.htm)  
 
 7、['《权力的游戏》探索性分析'](http://www.afenxi.com/post/48091)  
+
+8、[计量经济学文章汇总](http://mp.weixin.qq.com/s/jD52AFT-rqL3OOY_ZGXeUw)
 
 <p align="right">2018年03月04日 转载</p>
 -----------------------------------------
