@@ -2,7 +2,7 @@
 layout: copy
 title: 小店物薄，有需请用
 header: 资源分享
-date: '2018-04-06 18:15:15 +0800'
+date: '2018-04-12 12:15:15 +0800'
 permalink: /reference/
 published: true
 ---
@@ -196,12 +196,13 @@ abbr {text-decoration: none;}
 <ol class="rectangle-list">
 <li><a href="https://www.codewars.com/" target="_blank">Code Kata</a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">更多资源，第三期更新...</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">更多资源，第四期更新...</h4><hr>
 <ol class="rounded-list">
 
 
 ```YMAL
-2018-01-10搭建
-2018-02-25第一期更新：插件、设计网址、网络监测工具
-2018-02-28第二期更新：爬虫软件、自由门翻墙（~~感谢肖**分享~~）
+- 2018-01-10搭建
+- 2018-02-25第一期更新：插件、设计网址、网络监测工具
+- 2018-02-28第二期更新：爬虫软件、自由门翻墙（~~感谢肖**分享~~）
+- 2018-04-12第三期更新
 ```
