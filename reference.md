@@ -41,8 +41,9 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件1：Nordri Tools(iSlide前身)</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件2：OneKeyTools</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件3：iSlideTools.Setup.Online.2.5.0</a></li>
-<li><a href="https://pan.baidu.com/s/1bpbHMDT" target="_blank">PPT插件4:LV插件</a></li>
+<li><a href="https://pan.baidu.com/s/1bpbHMDT" target="_blank">PPT插件4:LV插件</a></li>LvyhTools
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件5:PocketAnimation</a></li>
+<li><a href="http://yinghao.vicp.io/" target="_blank">PPT插件6:LvyhTools</a></li> 
 <li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
 <li><a href="http://www.wangqianfang.com/1215.html" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">IDMan运营新人</a></li>
@@ -189,6 +190,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.zdic.net/" target="_blank">汉典</a></li>
 <li><a href="http://guji.artx.cn/" target="_blank">中国古籍全录</a></li>
 <li><a href="http://www.sciencesoftware.com.cn/Index.aspx" target="_blank">科学软件网</a></li>
+<li><a href="https://uzer.me/" target="_blank">在线办公系统</a></li>  
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
 <ol class="rectangle-list">
