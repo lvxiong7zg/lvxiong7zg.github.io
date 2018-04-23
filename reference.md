@@ -88,6 +88,14 @@ abbr {text-decoration: none;}
 <li><a href="http://cdn.code.baidu.com/" target="_blank">百度静态资源公共库</a></li>
 <li><a href="https://mubu.com/" target="_blank">幕布</a></li>
 <li><a href="http://zhitu.isux.us/" target="_blank">智图</a></li>
+<li><a href="duotone.shapefactory.co" target="_blank">Duotone</a></li> 
+<li><a href="weavesilk.com" target="_blank">镜像炫光生成器</a></li>
+<li><a href="codepen.io/tsuhre/full/BYbjyg" target="_blank">炫光生成器</a></li>
+<li><a href="codepen.io/Yakudoo/full/rJjOJx/" target="_blank">流动渐变层生成器</a></li>   
+<li><a href="codepen.io/pissang/full/geajpX" target="_blank">渐变层生成器</a></li>   
+<li><a href="photomosh.com" target="_blank">PhotoMosh</a></li>   
+<li><a href="demo.marpi.pl/biomes" target="_blank">体素生成器</a></li>   
+<li><a href="issang.github.io/voxelize-image" target="_blank">Voxelize Image </a></li>     
 </ol>
 <hr><h4 class="btn btn-info btn-lg">网络监测工具</h4><hr>
 <ol class="rectangle-list">
@@ -191,6 +199,7 @@ abbr {text-decoration: none;}
 <li><a href="http://guji.artx.cn/" target="_blank">中国古籍全录</a></li>
 <li><a href="http://www.sciencesoftware.com.cn/Index.aspx" target="_blank">科学软件网</a></li>
 <li><a href="https://uzer.me/" target="_blank">在线办公系统</a></li>  
+<li><a href="http://prose.io/#lvxiong7zg/lvxiong7zg.github.io" target="_blank">个人prose</a></li>  
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
 <ol class="rectangle-list">
