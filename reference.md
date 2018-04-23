@@ -199,7 +199,8 @@ abbr {text-decoration: none;}
 <li><a href="http://guji.artx.cn/" target="_blank">中国古籍全录</a></li>
 <li><a href="http://www.sciencesoftware.com.cn/Index.aspx" target="_blank">科学软件网</a></li>
 <li><a href="https://uzer.me/" target="_blank">在线办公系统</a></li>  
-<li><a href="http://prose.io/#lvxiong7zg/lvxiong7zg.github.io" target="_blank">个人prose</a></li>  
+<li><a href="http://prose.io/#lvxiong7zg/lvxiong7zg.github.io" target="_blank">个人prose</a></li> 
+<li><a href="https://portal.qiniu.com/create" target="_blank">七牛云</a></li>    
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
 <ol class="rectangle-list">
