@@ -2,7 +2,7 @@
 layout: copy
 title: 小店物薄，有需请用
 header: 资源分享
-date: '2018-04-12 12:15:15 +0800'
+date: '2018-05-02 12:15:15 +0800'
 permalink: /reference/
 published: true
 ---
@@ -62,6 +62,7 @@ abbr {text-decoration: none;}
 <li><a href="https://www.sxl.cn" target="_blank">上线了</a></li>
 <li><a href="http://www.9thws.com/" target="_blank">第九工厂</a></li>
 <li><a href="https://www.chuangkit.com/" target="_blank">创客贴</a></li>
+<li><a href="https://www.fixpicture.org/" target="_blank">图片转换</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">设计素材</h4><hr>
 <ol class="rectangle-list">
@@ -85,6 +86,21 @@ abbr {text-decoration: none;}
 <li><a href="https://www.pexels.com/" target="_blank">图片10：pexel</a></li>
 <li><a href="https://500px.com/" target="_blank">图片11：500PX</a></li>
 <li><a href="https://www.ssyer.com/" target="_blank">图片12：别样网</a></li>
+<li><a href="https://undraw.co/illustrations" target="_blank">undraw</a></li>
+<li><a href="https://dealjumbo.com" target="_blank">Dealjumbo</a></li>
+<li><a href="https://www.freepik.com" target="_blank">FreePik</a></li>
+<li><a href="www.vecteezy.co" target="_blank">Vecteezy</a></li>
+<li><a href="www.1001freedownloads.com/" target="_blank">1001freedownloads</a></li>
+<li><a href="https://undraw.co/illustrations" target="_blank">undraw</a></li>
+<li><a href="https://zh-tw.silhouette-ac.com/" target="_blank">silhouetteAC </a></li>
+<li><a href="https://zh-cn.ac-illust.com/" target="_blank">illustAC</a></li>
+<li><a href="www.iconninja.com" target="_blank">iconninja</a></li>  
+<li><a href="https://vectorish.com" target="_blank">vectorish</a></li>
+<li><a href="www.vectorportal.com" target="_blank">Vectorportal</a></li>
+<li><a href="www.shareicon.net" target="_blank">Shareicon</a></li>
+<li><a href="www.peecheey.com" target="_blank">Peecheey</a></li>
+<li><a href="https://flat-icon-design.com/?cat=71" target="_blank">Flaticon design </a></li>
+<li><a href="https://http://bg-patterns.com/" target="_blank">bg-patterns</a></li> 
 <li><a href="http://cdn.code.baidu.com/" target="_blank">百度静态资源公共库</a></li>
 <li><a href="https://mubu.com/" target="_blank">幕布</a></li>
 <li><a href="http://zhitu.isux.us/" target="_blank">智图</a></li>
@@ -108,6 +124,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.kmsocial.cn" target="_blank">孔明社会化媒体管理</a></li>
 <li><a href="https://zhugeio.com/" target="_blank">诸葛IO：用户行为洞察（友盟）</a></li>
 <li><a href="http://www.kanzhihu.com/useranalysis" target="_blank">知乎用户深度分析</a></li>
+<li><a href="https://dydata.io/" target="_blank">镝数</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">爬虫工具</h4><hr>
 <ol class="rectangle-list">
@@ -135,6 +152,7 @@ abbr {text-decoration: none;}
 <li><a href="https://www.edx.org/" target="_blank">edx</a></li>
 <li><a href="http://www.hubwiz.com/course/" target="_blank">汇智网</a></li>
 <li><a href="https://isux.tencent.com/css3/index.html" target="_blank">CSS 动画手册</a></li>
+<li><a href="https://huke88.com/route/id.html?sem=baidu&kw=101023" target="_blank">虎课网</a></li>
 <li><a href="http://baconipsum.com/" target="_blank"><abbr title="提供文本填充器的网站">Bacon IPsum</abbr></a></li>
 <li><a href="https://placeholder.com/" target="_blank"><abbr title="提供占位符图片的网站">PLACEHOLDER.COM</abbr></a></li>
 <li><a href="https://dummyimage.com/" target="_blank"><abbr title="提供多类型占位符图片的网站">Dummy Image Generator</abbr></a></li>
@@ -200,22 +218,29 @@ abbr {text-decoration: none;}
 <li><a href="http://www.sciencesoftware.com.cn/Index.aspx" target="_blank">科学软件网</a></li>
 <li><a href="https://uzer.me/" target="_blank">在线办公系统</a></li>  
 <li><a href="http://prose.io/#lvxiong7zg/lvxiong7zg.github.io" target="_blank">个人prose</a></li> 
-<li><a href="https://portal.qiniu.com/create" target="_blank">七牛云</a></li>    
+<li><a href="https://portal.qiniu.com/create" target="_blank">七牛云</a></li>
+<li><a href="http://www.yaobijia.com.cn/" target="_blank">图书比价网</a></li>  
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
 <ol class="rectangle-list">
 <li><a href="https://www.codewars.com/" target="_blank">Code Kata</a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">更多资源，第四期更新...</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">更多资源，第五期更新...</h4><hr>
 <ol class="rounded-list">
 
 
-```YMAL
 - 2018-01-10搭建
+
 
 - 2018-02-25第一期更新：插件、设计网址、网络监测工具
 
-- 2018-02-28第二期更新：爬虫软件、自由门翻墙（~~感谢肖**分享~~）
 
-- 2018-04-12第三期更新
-```
+- 2018-02-28第二期更新：爬虫软件、自由门翻墙
+
+
+- 2018-04-12第三期更新:办公系统、修辑软件
+
+
+- 2018-05-02第四期更新：矢量图标
+
+
