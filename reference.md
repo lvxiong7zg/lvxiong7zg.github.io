@@ -89,16 +89,16 @@ abbr {text-decoration: none;}
 <li><a href="https://undraw.co/illustrations" target="_blank">undraw</a></li>
 <li><a href="https://dealjumbo.com" target="_blank">Dealjumbo</a></li>
 <li><a href="https://www.freepik.com" target="_blank">FreePik</a></li>
-<li><a href="www.vecteezy.co" target="_blank">Vecteezy</a></li>
-<li><a href="www.1001freedownloads.com/" target="_blank">1001freedownloads</a></li>
+<li><a href="https://www.vecteezy.co" target="_blank">Vecteezy</a></li>
+<li><a href="https://www.1001freedownloads.com/" target="_blank">1001freedownloads</a></li>
 <li><a href="https://undraw.co/illustrations" target="_blank">undraw</a></li>
 <li><a href="https://zh-tw.silhouette-ac.com/" target="_blank">silhouetteAC </a></li>
 <li><a href="https://zh-cn.ac-illust.com/" target="_blank">illustAC</a></li>
-<li><a href="www.iconninja.com" target="_blank">iconninja</a></li>  
+<li><a href="https://www.iconninja.com" target="_blank">iconninja</a></li>  
 <li><a href="https://vectorish.com" target="_blank">vectorish</a></li>
-<li><a href="www.vectorportal.com" target="_blank">Vectorportal</a></li>
-<li><a href="www.shareicon.net" target="_blank">Shareicon</a></li>
-<li><a href="www.peecheey.com" target="_blank">Peecheey</a></li>
+<li><a href="https://www.vectorportal.com" target="_blank">Vectorportal</a></li>
+<li><a href="https://www.shareicon.net" target="_blank">Shareicon</a></li>
+<li><a href="https://www.peecheey.com" target="_blank">Peecheey</a></li>
 <li><a href="https://flat-icon-design.com/?cat=71" target="_blank">Flaticon design </a></li>
 <li><a href="https://bg-patterns.com/" target="_blank">bg-patterns</a></li> 
 <li><a href="http://cdn.code.baidu.com/" target="_blank">百度静态资源公共库</a></li>
