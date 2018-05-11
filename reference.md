@@ -100,18 +100,18 @@ abbr {text-decoration: none;}
 <li><a href="www.shareicon.net" target="_blank">Shareicon</a></li>
 <li><a href="www.peecheey.com" target="_blank">Peecheey</a></li>
 <li><a href="https://flat-icon-design.com/?cat=71" target="_blank">Flaticon design </a></li>
-<li><a href="https://http://bg-patterns.com/" target="_blank">bg-patterns</a></li> 
+<li><a href="https://bg-patterns.com/" target="_blank">bg-patterns</a></li> 
 <li><a href="http://cdn.code.baidu.com/" target="_blank">百度静态资源公共库</a></li>
 <li><a href="https://mubu.com/" target="_blank">幕布</a></li>
 <li><a href="http://zhitu.isux.us/" target="_blank">智图</a></li>
-<li><a href="duotone.shapefactory.co" target="_blank">Duotone</a></li> 
-<li><a href="weavesilk.com" target="_blank">镜像炫光生成器</a></li>
-<li><a href="codepen.io/tsuhre/full/BYbjyg" target="_blank">炫光生成器</a></li>
-<li><a href="codepen.io/Yakudoo/full/rJjOJx/" target="_blank">流动渐变层生成器</a></li>   
-<li><a href="codepen.io/pissang/full/geajpX" target="_blank">渐变层生成器</a></li>   
-<li><a href="photomosh.com" target="_blank">PhotoMosh</a></li>   
-<li><a href="demo.marpi.pl/biomes" target="_blank">体素生成器</a></li>   
-<li><a href="issang.github.io/voxelize-image" target="_blank">Voxelize Image </a></li>     
+<li><a href="http://duotone.shapefactory.co" target="_blank">Duotone</a></li> 
+<li><a href="http://weavesilk.com" target="_blank">镜像炫光生成器</a></li>
+<li><a href="http://codepen.io/tsuhre/full/BYbjyg" target="_blank">炫光生成器</a></li>
+<li><a href="http://codepen.io/Yakudoo/full/rJjOJx/" target="_blank">流动渐变层生成器</a></li>   
+<li><a href="http://codepen.io/pissang/full/geajpX" target="_blank">渐变层生成器</a></li>   
+<li><a href="http://photomosh.com" target="_blank">PhotoMosh</a></li>   
+<li><a href="http://demo.marpi.pl/biomes" target="_blank">体素生成器</a></li>   
+<li><a href="http://issang.github.io/voxelize-image" target="_blank">Voxelize Image </a></li>     
 </ol>
 <hr><h4 class="btn btn-info btn-lg">网络监测工具</h4><hr>
 <ol class="rectangle-list">
@@ -242,5 +242,3 @@ abbr {text-decoration: none;}
 
 
 - 2018-05-02第四期更新：矢量图标
-
-
