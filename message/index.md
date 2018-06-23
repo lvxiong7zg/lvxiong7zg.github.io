@@ -9,28 +9,7 @@ published: true
 -------------------------------
 
 
-
-
-
-
-![]({{site.baseurl}}/http://p4w9ayrxf.bkt.clouddn.com/%E6%80%BB.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![书籍](http://p4w9ayrxf.bkt.clouddn.com/%E6%80%BB.jpg)
 
 
 -------------------------------
