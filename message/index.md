@@ -22,10 +22,12 @@ published: true
 ![书籍](http://p4w9ayrxf.bkt.clouddn.com/%E6%80%BB.jpg)
 
 
-[数据分析与挖掘](http://p4w9ayrxf.bkt.clouddn.com/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B9%A6%E7%B1%8D.jpg)
-[廉政建设](http://p4w9ayrxf.bkt.clouddn.com/%E8%85%90%E8%B4%A5%E9%A3%8E.jpg)
-[文学1](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D1.jpg)
-[文学2](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D2.jpg)
+[数据分析与挖掘|](http://p4w9ayrxf.bkt.clouddn.com/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B9%A6%E7%B1%8D.jpg)
+[廉政建设|](http://p4w9ayrxf.bkt.clouddn.com/%E8%85%90%E8%B4%A5%E9%A3%8E.jpg)
+[文学1|](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D1.jpg)
+[文学2|](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D2.jpg)
+
+
 -------------------------------
 
 事不至大，无以惊人。案不及众，功之匪显。上以求安，下以邀宠，其冤固有，未可免也。荣以荣人者荣，祸以祸人者祸。荣非己莫恃，祸惟他勿纵。罪无实者，他罪可代；恶无彰者，人恶以附。
