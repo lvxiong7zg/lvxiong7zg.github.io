@@ -2,9 +2,12 @@
 layout: copy
 title: 云墨书林
 header: 云墨书林
-date: '2018-06-04 11:36:51 +0800'
+date: '2018-06-23 11:36:51 +0800'
 published: true
 ---
+
+
+![]({{site.baseurl}}/http://p4w9ayrxf.bkt.clouddn.com/%E6%80%BB.jpg)
 
 -------------------------------
 <p align="center">越安静 越美丽</p>
