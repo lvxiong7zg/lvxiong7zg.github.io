@@ -22,10 +22,10 @@ published: true
 ![书籍](http://p4w9ayrxf.bkt.clouddn.com/%E6%80%BB.jpg)
 
 
-[数据分析与挖掘|](http://p4w9ayrxf.bkt.clouddn.com/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B9%A6%E7%B1%8D.jpg)
-[廉政建设|](http://p4w9ayrxf.bkt.clouddn.com/%E8%85%90%E8%B4%A5%E9%A3%8E.jpg)
-[文学1|](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D1.jpg)
-[文学2|](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D2.jpg)
+[数据分析与挖掘](http://p4w9ayrxf.bkt.clouddn.com/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B9%A6%E7%B1%8D.jpg)
+|[廉政建设](http://p4w9ayrxf.bkt.clouddn.com/%E8%85%90%E8%B4%A5%E9%A3%8E.jpg)
+|[文学1](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D1.jpg)
+|[文学2](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D2.jpg)
 
 
 -------------------------------
