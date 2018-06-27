@@ -2,7 +2,7 @@
 layout: copy
 title: 云墨书林
 header: 云墨书林
-date: '2018-06-23 11:36:51 +0800'
+date: '2018-06-27 11:36:51 +0800'
 published: true
 ---
 -------------------------------
@@ -28,6 +28,26 @@ published: true
 |[文学2](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D2.jpg)
 |[借阅](http://p4w9ayrxf.bkt.clouddn.com/FireShot%20Capture%20026%20-%20%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86v5.5%E4%B9%A6%E7%9B%AE%E6%A3%80%E7%B4%A2%E7%B3%BB%E7%BB%9F%20-%20http___210.35.251.243_reader_book_hist.php_page=3.png)
 
+
+-------------------------------
+**放弃更需要勇气，本科4年，无悔于一切选择**
+
+[社会资格证书](http://p5h7svbkm.bkt.clouddn.com/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B9%A6.jpg)
+
+[荣誉证书](http://p5h7svbkm.bkt.clouddn.com/%E8%8D%A3%E8%AA%89%E8%AF%81%E4%B9%A6.jpg)
+
+[获奖证书](http://p5h7svbkm.bkt.clouddn.com/%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.jpg)
+
+**学术论文：**
+[二十年（1998-2017）来中国廉政理论研究现状与展望](http://p5h7svbkm.bkt.clouddn.com/%E4%BA%8C%E5%8D%81%E5%B9%B4%EF%BC%881998-2017%EF%BC%89%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E4%B8%8E%E5%B1%95%E6%9C%9B.pdf)
+
+[毕业论文：当前中国廉政理论研究现状—基于高校廉政研究机构的数据分析](http://p5h7svbkm.bkt.clouddn.com/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%EF%BC%9A%E5%BD%93%E5%89%8D%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E2%80%94%E5%9F%BA%E4%BA%8E%E9%AB%98%E6%A0%A1%E5%BB%89%E6%94%BF%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
+
+[The Mapping Mechanism of Modernization of National Governance and Corruption Governance](http://p5h7svbkm.bkt.clouddn.com/The%20Mapping%20Mechanism%20of%20Modernization%20of%20National%20Governance%20and%20Corruption%20Governance.pdf)
+
+[十八大以来全面从严治党的伟大实践：基于违反中央“八项规定”精神问题数的分析](http://p5h7svbkm.bkt.clouddn.com/%E5%8D%81%E5%85%AB%E5%A4%A7%E4%BB%A5%E6%9D%A5%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E7%9A%84%E4%BC%9F%E5%A4%A7%E5%AE%9E%E8%B7%B5%EF%BC%9A%E5%9F%BA%E4%BA%8E%E8%BF%9D%E5%8F%8D%E4%B8%AD%E5%A4%AE%E2%80%9C%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A%E2%80%9D%E7%B2%BE%E7%A5%9E%E9%97%AE%E9%A2%98%E6%95%B0%E7%9A%84%E5%88%86%E6%9E%90.pdf)
+
+[中国反腐倡廉建设路径透视](http://p5h7svbkm.bkt.clouddn.com/%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E5%80%A1%E5%BB%89%E5%BB%BA%E8%AE%BE%E8%B7%AF%E5%BE%84%E9%80%8F%E8%A7%86.pdf)
 
 -------------------------------
 
