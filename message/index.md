@@ -39,7 +39,7 @@ published: true
 
 [获奖证书](http://p5h7svbkm.bkt.clouddn.com/%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.jpg)
 
-学术论文：
+本科学术论文：
 
 [二十年（1998-2017）来中国廉政理论研究现状与展望](http://p5h7svbkm.bkt.clouddn.com/%E4%BA%8C%E5%8D%81%E5%B9%B4%EF%BC%881998-2017%EF%BC%89%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E4%B8%8E%E5%B1%95%E6%9C%9B.pdf)
 
