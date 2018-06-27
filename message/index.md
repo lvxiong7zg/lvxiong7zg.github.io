@@ -30,7 +30,7 @@ published: true
 
 
 -------------------------------
-**放弃更需要勇气，本科4年，无悔于一切选择**
+放弃更需要勇气，本科4年，无悔于一切选择
 
 [社会资格证书](http://p5h7svbkm.bkt.clouddn.com/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B9%A6.jpg)
 
@@ -38,7 +38,8 @@ published: true
 
 [获奖证书](http://p5h7svbkm.bkt.clouddn.com/%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.jpg)
 
-**学术论文：**
+学术论文：
+
 [二十年（1998-2017）来中国廉政理论研究现状与展望](http://p5h7svbkm.bkt.clouddn.com/%E4%BA%8C%E5%8D%81%E5%B9%B4%EF%BC%881998-2017%EF%BC%89%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E4%B8%8E%E5%B1%95%E6%9C%9B.pdf)
 
 [毕业论文：当前中国廉政理论研究现状—基于高校廉政研究机构的数据分析](http://p5h7svbkm.bkt.clouddn.com/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%EF%BC%9A%E5%BD%93%E5%89%8D%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E2%80%94%E5%9F%BA%E4%BA%8E%E9%AB%98%E6%A0%A1%E5%BB%89%E6%94%BF%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
