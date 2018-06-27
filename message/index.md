@@ -27,6 +27,7 @@ published: true
 |[文学1](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D1.jpg)
 |[文学2](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D2.jpg)
 |[借阅](http://p4w9ayrxf.bkt.clouddn.com/FireShot%20Capture%20026%20-%20%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86v5.5%E4%B9%A6%E7%9B%AE%E6%A3%80%E7%B4%A2%E7%B3%BB%E7%BB%9F%20-%20http___210.35.251.243_reader_book_hist.php_page=3.png)
+|[个人文集（2014年）](http://p5h7svbkm.bkt.clouddn.com/%E4%B8%AA%E4%BA%BA%E6%96%87%E9%9B%86%EF%BC%882014%E5%B9%B4%EF%BC%89.jpg)
 
 
 -------------------------------
