@@ -2,7 +2,7 @@
 layout: copy
 title: 小店物薄，有需请用
 header: 资源分享
-date: '2018-05-11 22:15:15 +0800'
+date: '2018-07-05 22:15:15 +0800'
 permalink: /reference/
 published: true
 ---
@@ -47,6 +47,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
 <li><a href="http://www.wangqianfang.com/1215.html" target="_blank">chrome浏览器插件库：免VIP视频播放、页面采集（文档、视频、图片、音乐）等</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">IDMan运营新人</a></li>
+<li><a href="http://vxposed.com/" target="_blank">Xposed框架</a></li>  
 <li><a href="https://xmt.cn/index" target="_blank">新媒体管家</a></li>
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">设计网址</h4><hr>
