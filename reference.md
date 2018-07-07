@@ -240,3 +240,5 @@ abbr {text-decoration: none;}
 - 2018-05-02第四期更新：矢量图标、Xposed框架
 - 2018-07-07第五期更新：微信接口（公众号、朋友圈等）、收趣接口
 
+<hr><h4 class="btn btn-info btn-lg">返回</h4><hr>
+[博文分类](http://lvxiong7zg.com/tag/) | [云墨书林](http://lvxiong7zg.com/message/) | [资源分享](http://lvxiong7zg.com/reference/) | [建站之路](http://lvxiong7zg.com/road/) | [个人相册](http://lvxiong7zg.com/private/) | [关于我](http://lvxiong7zg.com/me/)
