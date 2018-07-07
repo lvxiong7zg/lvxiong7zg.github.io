@@ -241,4 +241,11 @@ abbr {text-decoration: none;}
 - 2018-07-07第五期更新：微信接口（公众号、朋友圈等）、收趣接口
 
 <hr><h4 class="btn btn-info btn-lg">返回</h4><hr>
-[博文分类](http://lvxiong7zg.com/tag/) | [云墨书林](http://lvxiong7zg.com/message/) | [资源分享](http://lvxiong7zg.com/reference/) | [建站之路](http://lvxiong7zg.com/road/) | [个人相册](http://lvxiong7zg.com/private/) | [关于我](http://lvxiong7zg.com/me/)
+<li><a href="http://lvxiong7zg.com/tag/" target="_blank">博文分类</a></li>
+<li><a href="http://lvxiong7zg.com/message/" target="_blank">云墨书林</a></li>  
+<li><a href="http://lvxiong7zg.com/reference/" target="_blank">资源分享</a></li> 
+<li><a href="http://lvxiong7zg.com/road/" target="_blank">建站之路</a></li>
+<li><a href="http://lvxiong7zg.com/private/" target="_blank">个人相册</a></li> 
+<li><a href="http://lvxiong7zg.com/me/" target="_blank">关于我</a></li> 
+
+
