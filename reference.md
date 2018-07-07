@@ -14,6 +14,7 @@ abbr {text-decoration: none;}
 <hr><h4 class="btn btn-info btn-lg">友联博客</h4><hr>
 <ol class="rectangle-list">
 <li><a href="http://www.echodemo.cc/page/2/" target="_blank">EchoDemo's Blogs</a></li>
+<li><a href="https://www.cnblogs.com/ncuhwxiong/" target="_blank">byerHu</a></li>
 <li><a href="http://www.lizhenlong.com/" target="_blank">浒晓默</a></li>
 <li><a href="http://www.ruanyifeng.com/home.html" target="_blank">阮一峰</a></li>
 <li><a href="https://blog.growingio.com/?utm_source=zhihu&utm_medium=qa&utm_campaign=q19732600&utm_content=161019-blog-recommended&utm_term=data-analyse" target="_blank"> GrowingIO</a></li>
@@ -149,6 +150,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.class.cn/index/open" target="_blank">中国教育在线</a></li>
 <li><a href="http://www.fenbi.com/web/" target="_blank">粉笔网</a></li>
 <li><a href="http://www.duobei.com/" target="_blank">多贝公开课</a></li>
+<li><a href="https://www.btclass.cn/" target="_blank">BT学院</a></li>
 <li><a href="https://www.coursera.org/courses" target="_blank">courses</a></li>
 <li><a href="https://www.edx.org/" target="_blank">edx</a></li>
 <li><a href="http://www.hubwiz.com/course/" target="_blank">汇智网</a></li>
@@ -217,6 +219,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.zdic.net/" target="_blank">汉典</a></li>
 <li><a href="http://guji.artx.cn/" target="_blank">中国古籍全录</a></li>
 <li><a href="http://www.sciencesoftware.com.cn/Index.aspx" target="_blank">科学软件网</a></li>
+<li><a href="https://www.3d66.com/popsoft_7.html" target="_blank">3D溜溜网</a></li>
 <li><a href="https://uzer.me/" target="_blank">在线办公系统</a></li>  
 <li><a href="http://prose.io/#lvxiong7zg/lvxiong7zg.github.io" target="_blank">个人prose</a></li> 
 <li><a href="https://portal.qiniu.com/create" target="_blank">七牛云</a></li>
@@ -226,20 +229,14 @@ abbr {text-decoration: none;}
 <ol class="rectangle-list">
 <li><a href="https://www.codewars.com/" target="_blank">Code Kata</a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">更多资源，第五期更新...</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">更多资源，第六期更新...</h4><hr>
 <ol class="rounded-list">
 
 
 - 2018-01-10搭建
-
-
 - 2018-02-25第一期更新：插件、设计网址、网络监测工具
-
-
 - 2018-02-28第二期更新：爬虫软件、自由门翻墙
-
-
 - 2018-04-12第三期更新:办公系统、修辑软件
+- 2018-05-02第四期更新：矢量图标、Xposed框架
+- 2018-07-07第五期更新：微信接口（公众号、朋友圈等）、收趣接口
 
-
-- 2018-05-02第四期更新：矢量图标
