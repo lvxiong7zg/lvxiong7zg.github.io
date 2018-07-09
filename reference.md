@@ -29,6 +29,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="桌面程序管理器，与wGestures更配哦">Rolan</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="小白翻墙利器">ss/lantern/自由门翻墙</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">office暴风激活工具</a></li>
+ <li><a href="http://p4w9ayrxf.bkt.clouddn.com/Office%20Tool%20Plus.exe" target="_blank">office Tool Plus</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank"><abbr title="免账号知网下载插件（途径一）">cnki-downloader知网免账号下载插件</abbr></a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCELtool / excelwangnengbai</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL零一工具箱</a></li>
@@ -246,6 +247,4 @@ abbr {text-decoration: none;}
 <li><a href="http://lvxiong7zg.com/reference/" target="_blank">资源分享</a></li> 
 <li><a href="http://lvxiong7zg.com/road/" target="_blank">建站之路</a></li>
 <li><a href="http://lvxiong7zg.com/private/" target="_blank">个人相册</a></li> 
-<li><a href="http://lvxiong7zg.com/me/" target="_blank">关于我</a></li> 
-
-
+<li><a href="http://lvxiong7zg.com/me/" target="_blank">关于我</a></li>
