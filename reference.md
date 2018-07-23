@@ -224,7 +224,8 @@ abbr {text-decoration: none;}
 <li><a href="https://uzer.me/" target="_blank">在线办公系统</a></li>  
 <li><a href="http://prose.io/#lvxiong7zg/lvxiong7zg.github.io" target="_blank">个人prose</a></li> 
 <li><a href="https://portal.qiniu.com/create" target="_blank">七牛云</a></li>
-<li><a href="http://www.yaobijia.com.cn/" target="_blank">图书比价网</a></li>  
+<li><a href="http://www.yaobijia.com.cn/" target="_blank">图书比价网</a></li> 
+<li><a href="https://mp.weixin.qq.com/s/i7CVekE3PQx5EinrRNKA2w" target="_blank">综合软件网</a></li>  
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
 <ol class="rectangle-list">
