@@ -9,7 +9,7 @@ published: true
 
 
 
-！[《古韵听香》](http://p4w9ayrxf.bkt.clouddn.com/%E3%80%8A%E5%8F%A4%E9%9F%B5%E5%90%AC%E9%A6%99%E3%80%8B.pdf)
+[《古韵听香》](http://p4w9ayrxf.bkt.clouddn.com/%E3%80%8A%E5%8F%A4%E9%9F%B5%E5%90%AC%E9%A6%99%E3%80%8B.pdf)
 
 
 吕雄
