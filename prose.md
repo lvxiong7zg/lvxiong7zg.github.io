@@ -9,7 +9,8 @@ published: true
 
 
 
-**《聆楼觉梦》**
+[《聆楼觉梦》](http://p4w9ayrxf.bkt.clouddn.com/%E3%80%8A%E8%81%86%E6%A5%BC%E8%A7%89%E6%A2%A6%E3%80%8B.pdf)
+
 
 
 散文集
@@ -24,10 +25,6 @@ published: true
 戊戌年
 
 壬戌月 癸巳日
-
-
-[《聆楼觉梦》](http://p4w9ayrxf.bkt.clouddn.com/%E3%80%8A%E8%81%86%E6%A5%BC%E8%A7%89%E6%A2%A6%E3%80%8B.pdf)
-
 
 -------------------------------
 
