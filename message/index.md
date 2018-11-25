@@ -33,11 +33,11 @@ published: true
 -------------------------------
 放弃更需要勇气，本科4年，无悔于一切选择
 
-[社会资格证书](http://p5h7svbkm.bkt.clouddn.com/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B9%A6.jpg)
+[社会资格证书](http://piht7ibwn.bkt.clouddn.com/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B9%A6.jpg)
 
-[荣誉证书](http://p5h7svbkm.bkt.clouddn.com/%E8%8D%A3%E8%AA%89%E8%AF%81%E4%B9%A6.jpg)
+[荣誉证书](http://piht7ibwn.bkt.clouddn.com/%E8%8D%A3%E8%AA%89%E8%AF%81%E4%B9%A6.jpg)
 
-[获奖证书](http://p5h7svbkm.bkt.clouddn.com/%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.jpg)
+[获奖证书](http://piht7ibwn.bkt.clouddn.com/%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.jpg)
 
 本科学术论文：
 
