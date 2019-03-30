@@ -7,7 +7,7 @@ published: true
 ---
 
 <p align="center">书中求法，悟后方知法非法</p>
-<p align="center">梦里寻诗，醒前不觉诗亦诗</p>
+<p align="center">梦里寻诗，醒前不觉诗是诗</p>
 <p align="right">——2019年3月30日 入梦寻诗</p>
 
 -------------------------------
