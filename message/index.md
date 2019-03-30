@@ -5,6 +5,11 @@ header: 云墨书林
 date: '2018-06-28 11:36:51 +0800'
 published: true
 ---
+
+<p align="center">书中求法，悟后方知法非法</p></p></p>
+<p align="center">梦里寻诗，醒前不觉诗亦诗</p></p>
+<p align="right">——2019年3月30日 入梦寻诗</p>
+
 -------------------------------
 
 <p align="center">越安静 越美丽</p>
@@ -33,11 +38,11 @@ published: true
 -------------------------------
 放弃更需要勇气，本科4年，无悔于一切选择
 
-[社会资格证书](http://piht7ibwn.bkt.clouddn.com/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B9%A6.jpg)
+[社会资格证书](http://pp6eyks5f.bkt.clouddn.com/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B9%A6.jpg)
 
-[荣誉证书](http://piht7ibwn.bkt.clouddn.com/%E8%8D%A3%E8%AA%89%E8%AF%81%E4%B9%A6.jpg)
+[荣誉证书](http://pp6eyks5f.bkt.clouddn.com/%E8%8D%A3%E8%AA%89%E8%AF%81%E4%B9%A6.jpg)
 
-[获奖证书](http://piht7ibwn.bkt.clouddn.com/%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.jpg)
+[获奖证书](http://pp6eyks5f.bkt.clouddn.com/%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.jpg)
 
 本科学术论文：
 
