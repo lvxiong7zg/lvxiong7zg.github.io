@@ -131,7 +131,7 @@ abbr {text-decoration: none;}
 <li><a href="http://www.kanzhihu.com/useranalysis" target="_blank">知乎用户深度分析</a></li>
 <li><a href="https://dydata.io/" target="_blank">镝数</a></li>
 <li><a href="http://abi.esensoft.com/index/index.html" target="_blank">亿信ABI可视化</a></li> 
-<li><a herf="https://powerbi.microsoft.com/zh-cn/"target="_blank">Power Bi商业可视化</a></li> 
+<li><a herf="https://powerbi.microsoft.com/zh-cn/" target="_blank">Power Bi商业可视化</a></li> 
 </ol>
 <hr><h4 class="btn btn-info btn-lg">爬虫工具</h4><hr>
 <ol class="rectangle-list">
@@ -239,15 +239,18 @@ abbr {text-decoration: none;}
 <ol class="rounded-list">
 
 
-- 2018-01-10搭建
-- 2018-02-25第一期更新：插件、设计网址、网络监测工具
-- 2018-02-28第二期更新：爬虫软件、自由门翻墙
-- 2018-04-12第三期更新:办公系统、修辑软件
-- 2018-05-02第四期更新：矢量图标、Xposed框架
-- 2018-07-07第五期更新：微信接口（公众号、朋友圈等）、收趣接口
+2018-01-10搭建<br>
+<tr><td>2018-02-25第一期更新：插件、设计网址、网络监测工具</td>
+<td>2018-02-28第二期更新：爬虫软件、自由门翻墙</td></tr>
+<tr><td>2018-04-12第三期更新:办公系统、修辑软件</td>
+<td>2018-05-02第四期更新：矢量图标、Xposed框架</td></tr>
+<tr><td>2018-07-07第五期更新：微信接口（公众号、朋友圈等）、收趣接口</td>
+<td>2019-07-24第六期更新：商业可视化平台、公安备案信息</td></tr>
 
 <hr><h4 class="btn btn-info btn-lg">返回</h4><hr>
 <li><a href="http://lvxiong7zg.com/tag/" target="_blank">博文分类</a></li>
+<li><a href="http://lvxiong7zg.com/prose/" target="_blank">聆楼觉梦</a></li>
+<li><a href="http://lvxiong7zg.com/poetry/" target="_blank">古韵听香</a></li>
 <li><a href="http://lvxiong7zg.com/message/" target="_blank">云墨书林</a></li>  
 <li><a href="http://lvxiong7zg.com/reference/" target="_blank">资源分享</a></li> 
 <li><a href="http://lvxiong7zg.com/road/" target="_blank">建站之路</a></li>
