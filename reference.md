@@ -39,6 +39,7 @@ abbr {text-decoration: none;}
 <li><a href="http://easychart.github.io/post/Easycharts/" target="_blank">EXCEL插件6：EasyCharts</a></li>  
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">EXCEL插件7: power Query</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">WoldKutools</a></li>
+<li><a href="https://pan.baidu.com/s/14WaCeO11lkjXT70mRfFdag" target="_blank">公文排版插件（7c0n）</a></li>
 <!--JSON验证-->
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件1：Nordri Tools(iSlide前身)</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件2：OneKeyTools</a></li>
@@ -114,7 +115,8 @@ abbr {text-decoration: none;}
 <li><a href="http://codepen.io/pissang/full/geajpX" target="_blank">渐变层生成器</a></li>   
 <li><a href="http://photomosh.com" target="_blank">PhotoMosh</a></li>   
 <li><a href="http://demo.marpi.pl/biomes" target="_blank">体素生成器</a></li>   
-<li><a href="http://issang.github.io/voxelize-image" target="_blank">Voxelize Image </a></li>     
+<li><a href="http://issang.github.io/voxelize-image" target="_blank">Voxelize Image </a></li>   
+
 </ol>
 <hr><h4 class="btn btn-info btn-lg">网络监测工具</h4><hr>
 <ol class="rectangle-list">
@@ -128,6 +130,8 @@ abbr {text-decoration: none;}
 <li><a href="https://zhugeio.com/" target="_blank">诸葛IO：用户行为洞察（友盟）</a></li>
 <li><a href="http://www.kanzhihu.com/useranalysis" target="_blank">知乎用户深度分析</a></li>
 <li><a href="https://dydata.io/" target="_blank">镝数</a></li>
+<li><a href="http://abi.esensoft.com/index/index.html" target="_blank">亿信ABI可视化</a></li> 
+<li><a herf="https://powerbi.microsoft.com/zh-cn/"target="_blank">Power Bi商业可视化</a></li> 
 </ol>
 <hr><h4 class="btn btn-info btn-lg">爬虫工具</h4><hr>
 <ol class="rectangle-list">
@@ -174,7 +178,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1c4bGiZY" target="_blank">数据分析进阶：SAS/stata（半菜单半编程） （密码ia5k)</a></li>
 <li><a href="https://pan.baidu.com/s/1qZKwIhI" target="_blank">数据分析进阶：R语言/python/Java（编程式） (密码ub05)</a></li>
 <li><a href="https://pan.baidu.com/s/1qZLcGfq" target="_blank">数据挖掘：Hadoop/spark/R语言/python/Spss Modeler（编程式）  （密码i1h2）</a></li>
-<li><a href="http://bbs.pinggu.org/thread-6182795-1-1.html" target="_blank">结构方程模型：AMOS</a></li>
+<li><a href="https://pan.baidu.com/s/1RFU7OY6oKeNaU4vfSZRkeA" target="_blank">结构方程模型：AMOS（15xt)</a></li>
 <li><a href="http://blog.csdn.net/xieyan0811/article/details/60962955" target="_blank">自然语言处理NLP</a></li>
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">其他软件</h4><hr>
