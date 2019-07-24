@@ -240,13 +240,16 @@ abbr {text-decoration: none;}
 
 
 2018-01-10搭建<br>
+<table>
 <tr><td>2018-02-25第一期更新：插件、设计网址、网络监测工具</td>
 <td>2018-02-28第二期更新：爬虫软件、自由门翻墙</td></tr>
 <tr><td>2018-04-12第三期更新:办公系统、修辑软件</td>
 <td>2018-05-02第四期更新：矢量图标、Xposed框架</td></tr>
 <tr><td>2018-07-07第五期更新：微信接口（公众号、朋友圈等）、收趣接口</td>
 <td>2019-07-24第六期更新：商业可视化平台、公安备案信息</td></tr>
-
+</table>
+  
+  
 <hr><h4 class="btn btn-info btn-lg">返回</h4><hr>
 <li><a href="http://lvxiong7zg.com/tag/" target="_blank">博文分类</a></li>
 <li><a href="http://lvxiong7zg.com/prose/" target="_blank">聆楼觉梦</a></li>
