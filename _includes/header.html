@@ -1,3 +1,4 @@
+
 <header class="navbar navbar-inverse navbar-fixed-top docs-nav" role="banner">
   <div class="container">
     <div class="navbar-header">
@@ -12,92 +13,37 @@
     </div>
 
     <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-   <ul class="nav clearfix">
-      <li class="m on">
-        <h3><a target="_blank" href="/">首页</a></h3>
-      </li>
+      <ul class="nav navbar-nav">
+        <li></li>
+        <li><a href="{{ '/' | prepend: site.baseurl }}">首页</a></li>
+        <li><a href="{{ '/tag' | prepend: site.baseurl }}">博文分类</a></li>
+        <li><a href="{{ '/message' | prepend: site.baseurl }}">云墨书林</a></li>
+        <li><a href="{{ '/poetry' | prepend: site.baseurl }}">古韵听香</a></li>
+        <li><a href="{{ '/prose' | prepend: site.baseurl }}">聆楼觉梦</a></li>
+      </ul>
       
-      <li class="m">
-        <h3><a href="/jggk/">机构概况</a></h3>
-        <ul class="sub">
-          <li><a href="/jggk/zyzn/">主要职能</a></li>
-          <li><a href="/jggk/ldcy/">领导成员</a></li>
-          
-          <li><a href="/jggk/nsjg/">内设机构</a></li>
-          <li><a href="/jggk/xssydw/">下属事业单位</a></li>
-        </ul>
-      </li>
+       <ul class="nav navbar-nav">
+        <li><a href="{{ '/sjyc' | prepend: site.baseurl }}">数据芸窗</a></li>
+        <li class="nav-font "><a href="{{ '/wljp' | prepend: site.baseurl }}">文庐经圃</a> </li>
+           <!--  <p>-->
+          <!-- <a href="{{ '/wljp/r' | prepend: site.baseurl }}">R语言</a>-->
+          <!-- <a href="{{ '/wljp/python' | prepend: site.baseurl }}">Python</a>-->
+          <!-- <a href="{{ '/wljp/eviews' | prepend: site.baseurl }}">Eviews</a>-->
+         <!--  <a href="{{ '/wljp/amos' | prepend: site.baseurl }}">AMOS</a>-->
+         <!--  <a href="{{ '/wljp/spss' | prepend: site.baseurl }}">SPSS</a>-->
+         <!--  <a href="{{ '/wljp/powerbi' | prepend: site.baseurl }}">PowerBI</a>-->
+         <!--  <a href="{{ '/wljp/csss' | prepend: site.baseurl }}">CSSS</a>-->
+         <!--  </p>-->
+        <li><a rel="nofollow" href="{{ '/reference' | prepend: site.baseurl }}">资源分享</a></li>
+      </ul>
       
-      <li class="m">
-        <h3><a href="/dtxw/">动态新闻</a></h3>
-        <ul class="sub">
-          <li><a href="/dtxw/gzdt/">工作动态</a></li>
-          <li><a href="/dtxw/xqdt/">县区动态</a></li>
-        </ul>
-      </li>
-      <li class="m">
-        <h3><a href="/tzgg/">通知公告</a></h3>
-      </li> 
-      
-      <li class="m">
-        <h3><a href="/ywxx/">政策法规</a></h3>
-        </li>
-      
-      <li class="m">
-        <h3><a href="/zfxxgkml/">信息公开</a></h3>
-        <ul class="sub">
-          <li><a href="http://rsj.km.gov.cn/c/2017-07-31/2844179.shtml">公开指南</a></li>
-          <li><a href="/zfxxgkml/zfwj/">政府文件</a></li>
-          <li><a href="/zfxxgkml/ysqgk/">依申请公开</a></li>
-          <li><a href="/zfxxgkml/jhgh/">计划规划</a></li>
-          <li><a href="/zfxxgkml/zfxxgkndbg/">年度报告</a></li>
-          <li><a href="/zfxxgkml/czzjxx/">财政资金信息</a></li>
-          <li><a href="/zfxxgkml/zcjd/">政策解读</a></li>
-          <li><a href="/zfxxgkml/qlqdjzrqd/">权责清单</a></li>
-          <li><a href="/zfxxgkml/zdjc/">重大决策</a></li>
-          <li><a href="/zfxxgkml/rdhy/">热点回应</a></li>
-          <li><a href="/zfxxgkml/gwyglxxgk/">公务员管理</a></li>
-          <li><a href="/zfxxgkml/jycyxxgk/">就业创业</a></li>
-          <li><a href="/zfxxgkml/jytabljgdf/">建议提案办理</a></li>
-        </ul>
-      </li>
-      
-      <li class="m">
-        <h3><a href="/sxzd/">四项制度</a></h3>
-        <ul class="sub">
-          <li><a href="http://xxcx.yn.gov.cn/faq/">政务信息网络查询</a></li>
-          <li><a href="http://ygzf.yn.gov.cn/tingzheng/areagg.jsp?bmid=125">重大决策听证</a></li>
-          <li><a href="http://gs.yn.gov.cn/gongshi/areagg.jsp?bmid=125">重要事项公示</a></li>
-          <li><a href="http://ygzf.yn.gov.cn/tongbao/areagg.jsp?bmid=125">重点工作通报</a></li>
-        </ul>
-      </li>
-      
-      <li class="m">
-        <h3><a href="/hdjl/">互动交流</a></h3>
-        <ul class="sub">
-          <li><a href="/hdjl/jcxx/">局长信箱</a></li>
-          <li><a href="/hdjl/wjdc/">问卷调查</a></li>
-          <li><a href="http://bbs.clzg.cn/forum-361-1.html">政民互动</a></li>
-          <li><a href="/hdjl/cjwtwd/">常见问题问答</a></li>
-          
-        </ul>
-      </li>
-      
-      <li class="m">
-        <h3><a href="/zxfw/">在线服务</a></h3>
-        <ul class="sub">
-          <li><a href="/zxfw/fwzn/">服务指南</a></li>
-          <li><a href="/zxfw/zlxz/">资料下载</a></li>
-          <li><a href="/zxfw/wsbs/">网上办事</a></li>
-        </ul>
-      </li>
-      
-      
-      <li class="m">
-        <h3><a href="/dqzh/">党群综合</a></h3>
-      </li>
-      <li class="block" style="left: -3px;"></li><!-- 滑动块 -->
-    </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="{{ '/road' | prepend: site.baseurl }}">建站之路</a></li>
+        <li><a href="{{ '/private' | prepend: site.baseurl }}">个人相册</a></li>
+        <!-- <li><a href="{{ '/donate' | prepend: site.baseurl }}">打赏我</a></li> -->
+        <li><a rel="nofollow" href="{{ '/me' | prepend: site.baseurl }}">关于我</a></li>
+        <li><a rel="nofollow" href="{{ '/talktome' | prepend: site.baseurl }}">TalkToMe</a></li>
+      </ul>
     </nav>
+  </div>
 </header>
-
