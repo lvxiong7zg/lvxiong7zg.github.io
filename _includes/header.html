@@ -11,33 +11,6 @@
       </a>
     </div>
 
-    <script type="text/javascript">
-var timeout         = 500;
-var closetimer		= 0;
-var ddmenuitem      = 0;
-
-function jsddm_open()
-{	jsddm_canceltimer();
-	jsddm_close();
-	ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');}
-
-function jsddm_close()
-{	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
-
-function jsddm_timer()
-{	closetimer = window.setTimeout(jsddm_close, timeout);}
-
-function jsddm_canceltimer()
-{	if(closetimer)
-	{	window.clearTimeout(closetimer);
-		closetimer = null;}}
-
-$(document).ready(function()
-{	$('#jsddm > li').bind('mouseover', jsddm_open);
-	$('#jsddm > li').bind('mouseout',  jsddm_timer);});
-
-document.onclick = jsddm_close;
-  </script>
     <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
       <ul class="nav navbar-nav">
         <li></li>
@@ -46,16 +19,16 @@ document.onclick = jsddm_close;
        </ul>
       
       <ul id="jsddm">
-         <li><a href="{{ '/wljp' | prepend: site.baseurl }}">文庐经圃3</a>
-          <ul>
-          <li><a href="{{ '/wljp/r' | prepend: site.baseurl }}">R语言</a></li>
-          <li><a href="{{ '/wljp/python' | prepend: site.baseurl }}">Python</a></li>
-          <li><a href="{{ '/wljp/eviews' | prepend: site.baseurl }}">Eviews</a></li>
-          <li><a href="{{ '/wljp/amos' | prepend: site.baseurl }}">AMOS</a></li>
-          <li><a href="{{ '/wljp/spss' | prepend: site.baseurl }}">SPSS</a></li>
-          <li><a href="{{ '/wljp/powerbi' | prepend: site.baseurl }}">PowerBI</a></li>
-          <li><a href="{{ '/wljp/csss' | prepend: site.baseurl }}">CSSS</a></li>
-          </ul>
+         <li><a href="{{ '/wljp' | prepend: site.baseurl }}">文庐经圃4</a>
+          <p>
+          <a href="{{ '/wljp/r' | prepend: site.baseurl }}">R语言</a>
+          <a href="{{ '/wljp/python' | prepend: site.baseurl }}">Python</a>
+          <a href="{{ '/wljp/eviews' | prepend: site.baseurl }}">Eviews</a>
+          <a href="{{ '/wljp/amos' | prepend: site.baseurl }}">AMOS</a>
+          <a href="{{ '/wljp/spss' | prepend: site.baseurl }}">SPSS</a>
+          <a href="{{ '/wljp/powerbi' | prepend: site.baseurl }}">PowerBI</a>
+          <a href="{{ '/wljp/csss' | prepend: site.baseurl }}">CSSS</a>
+          </p>
          </li>
       
       
