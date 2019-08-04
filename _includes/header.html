@@ -13,31 +13,38 @@
     <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
       <ul class="nav navbar-nav">
         <li></li>
-        <li>
-          <a href="{{ '/' | prepend: site.baseurl }}">首页</a>
-        </li>
-        <!-- <li>
-          <a href="{{ '/categories/' | prepend: site.baseurl }}">博文分类1</a>
-        </li> -->
-        <li>
-          <a href="{{ '/tag' | prepend: site.baseurl }}">博文分类</a>
-        </li>
-        <li><a href="{{ '/message' | prepend: site.baseurl }}">云墨书林</a></li>
+        <li><a href="{{ '/' | prepend: site.baseurl }}">首页</a></li>
+        <li><a href="{{ '/tag' | prepend: site.baseurl }}">博文分类</a></li>
+       </ul>
+      
+       <ul class="nav navbar-nav">
+        <li><a href="{{ '/message' | prepend: site.baseurl }}">|云墨书林</a></li>
         <li><a href="{{ '/poetry' | prepend: site.baseurl }}">古韵听香</a></li>
-        <li><a href="{{ '/prose' | prepend: site.baseurl }}">聆楼觉梦</a></li>
+        <li><a href="{{ '/prose' | prepend: site.baseurl }}">聆楼觉梦|</a></li>
       </ul>
+      
+       <ul class="nav navbar-nav">
+        <li><a href="{{ '/sjyc' | prepend: site.baseurl }}">|数据芸窗</a></li>
+        <li><a href="{{ '/wljp' | prepend: site.baseurl }}">文庐经圃</a>
+         <ul class="sub" style="display: none;">
+          <li><a href="/wljp/R/">R语言</a></li>
+          <li><a href="/wljp/python/">Python</a></li>
+          <li><a href="/wljp/eviwes/">Eviews</a></li>
+          <li><a href="/wljb/amos/">AMOS</a></li>
+          <li><a href="/wljp/spss/">SPSS</a></li>
+          <li><a href="/wljp/powerbi/">PowerBI</a></li>
+          <li><a href="/wljp/csss/">CSSS</a></li>
+        </ul>
+         </li>
+        <li><a rel="nofollow" href="{{ '/reference' | prepend: site.baseurl }}">资源分享|</a></li>
+      </ul>
+      
       <ul class="nav navbar-nav navbar-right">
-        <li><a rel="nofollow" href="{{ '/reference' | prepend: site.baseurl }}">资源分享</a></li>
-        <!-- <li><a href="{{ '/effects' | prepend: site.baseurl }}">DEMO</a></li> -->
         <li><a href="{{ '/road' | prepend: site.baseurl }}">建站之路</a></li>
         <li><a href="{{ '/private' | prepend: site.baseurl }}">个人相册</a></li>
         <!-- <li><a href="{{ '/donate' | prepend: site.baseurl }}">打赏我</a></li> -->
         <li><a rel="nofollow" href="{{ '/me' | prepend: site.baseurl }}">关于我</a></li>
         <li><a rel="nofollow" href="{{ '/talktome' | prepend: site.baseurl }}">TalkToMe</a></li>
-
-        <!--
-        <li><a rel="nofollow" target="_blank" href="{{site.resume_site}}">关于我</a></li>
-        -->
       </ul>
     </nav>
   </div>
