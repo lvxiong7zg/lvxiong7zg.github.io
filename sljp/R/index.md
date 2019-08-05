@@ -1,6 +1,6 @@
 ---
 layout: copy
-header: R语言学习资料库
+title: R语言学习资料库
 date: '2019-08-05 16:15:15 +0800'
 permalink: /sljp/R
 ---
