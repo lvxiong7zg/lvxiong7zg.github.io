@@ -1,4 +1,4 @@
----
+------
 layout: default
 title: 数据芸窗
 header: Posts By sjyc
@@ -9,16 +9,16 @@ header: Posts By sjyc
     <div class="col-md-3">
       <div class="sidebar hidden-print" role="complementary">
         <div id="navigation">
-        	<h1>数据芸窗</h1>
+        	<h1>博文分类</h1>
       		<ul class="nav sidenav">
-				{% if site.sjyc.first[0] == null %}
-					{% for sjyc in site.sjyc %} 
+				{% if site.sjycs.first[0] == null %}
+					{% for sjyc in site.sjycs %} 
 				    	<li><a href="#{{ sjyc }}-ref">
-				    		{{ sjyc | join: "/" }} <span style="color: #999999;" >({{ site.sjyc[sjyc].size }})</span>
+				    		{{ sjyc | join: "/" }} <span style="color: #999999;" >({{ site.sjycs[sjyc].size }})</span>
 				    	</a></li>
 			    	{% endfor %}
 			  	{% else %}
-			    	{% for sjyc in site.sjyc %} 
+			    	{% for sjyc in site.sjycs %} 
 				    	<li><a href="#{{ sjyc[0] }}-ref">
 				    		{{ sjyc[0] | join: "/" }} <span style="color: #999999;" >({{ sjyc[1].size }})</span>
 				    	</a></li>
@@ -32,7 +32,7 @@ header: Posts By sjyc
       <div class="panel docs-content">
         <div class="wrapper">
           <div class="home">
-			{% for sjyc in site.sjyc %} 
+			{% for sjyc in site.sjycs %} 
 			  <h2 class="title-border" id="{{ sjyc[0] }}-ref">{{ sjyc[0] | join: "/" }}</h2><hr>
 			  <div>
 			    {% assign pages_list = sjyc[1] %}  
