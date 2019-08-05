@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 数据芸窗
-header: Posts By Category
+title: 数据芸窗 
+header: Posts By sjyc
 ---
 
 <div class="container docs-container">
@@ -9,21 +9,17 @@ header: Posts By Category
     <div class="col-md-3">
       <div class="sidebar hidden-print" role="complementary">
         <div id="navigation">
-        	<h1>数据芸窗</h1>
+        	<h1>数据芸窗 </h1>
       		<ul class="nav sidenav">
-				{% if site.sjycs.first[0] == null %}
-					{% for category in site.sjycs %} 
-				    	<li><a href="#{{ category }}-ref">
-				    		{{ category | join: "/" }} <span style="color: #999999;" >({{ site.sjycs[category].size }})</span>
-				    	</a></li>
-			    	{% endfor %}
-			  	{% else %}
-			    	{% for category in site.sjycs %} 
-				    	<li><a href="#{{ category[0] }}-ref">
-				    		{{ category[0] | join: "/" }} <span style="color: #999999;" >({{ category[1].size }})</span>
-				    	</a></li>
-			    	{% endfor %}
-			  	{% endif %}
+			  	{% if site.sjycs.first[0] == null %}
+				  	{% for sjyc in site.sjycs %} 
+				  	<li><a href="{{ site.JB.sjycs_path }}#{{ sjyc }}-ref">{{ sjyc }} <span >({{ site.sjycs[sjyc].size }})</span></a></li>
+				  	{% endfor %}
+				{% else %}
+				  	{% for sjyc in site.sjycs %} 
+				  	<li><a href="{{ site.JB.sjycs_path }}#{{ sjyc[0] }}-ref">{{ sjyc[0] }} <span style="color: #999;" >({{ sjyc[1].size }})</span></a></li>
+				  	{% endfor %}
+				{% endif %}
           	</ul>
         </div>
       </div>
@@ -32,10 +28,10 @@ header: Posts By Category
       <div class="panel docs-content">
         <div class="wrapper">
           <div class="home">
-			{% for category in site.sjycs %} 
-			  <h2 class="title-border" id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2><hr>
+          	{% for sjyc in site.sjycs %} 
+			  <h2 class="title-border" id="{{ sjyc[0] }}-ref">{{ sjyc[0] }}</h2><hr>
 			  <div>
-			    {% assign pages_list = category[1] %}  
+			    {% assign pages_list = sjyc[1] %}  
 			    {% include LessOrMore/pages_list %}
 			  </div><hr>
 			{% endfor %}
