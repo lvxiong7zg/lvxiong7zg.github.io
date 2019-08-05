@@ -1,6 +1,6 @@
 ---
 layout: copy
-header: 数庐经圃
+title: 数庐经圃
 date: '2019-08-05 16:15:15 +0800'
 permalink: /sljp/
 ---
