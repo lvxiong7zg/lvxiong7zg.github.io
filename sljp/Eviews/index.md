@@ -1,6 +1,6 @@
 ---
 layout: copy
-header: Eviews学习资料库
+title: Eviews/state学习资料库
 date: '2019-08-05 17:15:15 +0800'
 permalink: /sljp/Eviews
 ---
