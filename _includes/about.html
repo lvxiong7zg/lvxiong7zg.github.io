@@ -1,15 +1,15 @@
 <div class="nav sidenav">
-    <h3 class="head-t">sjycs</h3>
+    <h3 class="head-t">Categories</h3>
 <table class="table table-striped table-hover">
-    {% if site.sjycs.first[0] == null %}
-    {% for category in site.sjycs %}
-    <tr><td><a href="/sjycs/#{{ category }}-ref">
-        {{ category | join: "/" }} <span class="btn btn-primary btn-xs pull-right">({{ site.sjycs[category].size }}) </span>
+    {% if site.categories.first[0] == null %}
+    {% for category in site.categories %}
+    <tr><td><a href="/categories/#{{ category }}-ref">
+        {{ category | join: "/" }} <span class="btn btn-primary btn-xs pull-right">({{ site.categories[category].size }}) </span>
     </a></td></tr>
     {% endfor %}
     {% else %}
-    {% for category in site.sjycs %}
-    <tr><td><a href="/sjycs/#{{ category[0] }}-ref">
+    {% for category in site.categories %}
+    <tr><td><a href="/categories/#{{ category[0] }}-ref">
         {{ category[0] | join: "/" }} <span class="btn btn-primary btn-xs pull-right">({{ category[1].size }})</span>
     </a></td></tr>
     {% endfor %}
