@@ -1,9 +1,7 @@
 ---
 layout: default
 title: 梦笔醉书
-header: Posts By mbzs
-published: true
----
+header: Posts By Tag
 ---
 
 <div class="container docs-container">
@@ -13,13 +11,13 @@ published: true
         <div id="navigation">
         	<h1>梦笔醉书</h1>
       		<ul class="nav sidenav">
-			  	{% if site.mbzss.first[0] == null %}
-				  	{% for mbzs in site.mbzss %} 
-				  	<li><a href="{{ site.JB.mbzss_path }}#{{ mbzs }}-ref">{{ mbzs }} <span >({{ site.mbzss[mbzs].size }})</span></a></li>
+			  	{% if site.tags.first[0] == null %}
+				  	{% for tag in site.tags %} 
+				  	<li><a href="{{ site.JB.tags_path }}#{{ tag }}-ref">{{ tag }} <span >({{ site.tags[tag].size }})</span></a></li>
 				  	{% endfor %}
 				{% else %}
-				  	{% for mbzs in site.mbzss %} 
-				  	<li><a href="{{ site.JB.mbzss_path }}#{{ mbzs[0] }}-ref">{{ mbzs[0] }} <span style="color: #999;" >({{ mbzs[1].size }})</span></a></li>
+				  	{% for tag in site.tags %} 
+				  	<li><a href="{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }} <span style="color: #999;" >({{ tag[1].size }})</span></a></li>
 				  	{% endfor %}
 				{% endif %}
           	</ul>
@@ -30,10 +28,10 @@ published: true
       <div class="panel docs-content">
         <div class="wrapper">
           <div class="home">
-          	{% for mbzs in site.mbzss %} 
-			  <h2 class="title-border" id="{{ mbzs[0] }}-ref">{{ mbzs[0] }}</h2><hr>
+          	{% for tag in site.tags %} 
+			  <h2 class="title-border" id="{{ tag[0] }}-ref">{{ tag[0] }}</h2><hr>
 			  <div>
-			    {% assign pages_list = mbzs[1] %}  
+			    {% assign pages_list = tag[1] %}  
 			    {% include LessOrMore/pages_list %}
 			  </div><hr>
 			{% endfor %}
