@@ -44,7 +44,7 @@ abbr {text-decoration: none;}
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件1：Nordri Tools(iSlide前身)</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件2：OneKeyTools</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件3：iSlideTools.Setup.Online.2.5.0</a></li>
-<li><a href="https://pan.baidu.com/s/1bpbHMDT" target="_blank">PPT插件4:LV插件</a></li>LvyhTools
+<li><a href="https://pan.baidu.com/s/1bpbHMDT" target="_blank">PPT插件4:LV插件</a></li>
 <li><a href="https://pan.baidu.com/s/1htysxRQ" target="_blank">PPT插件5:PocketAnimation</a></li>
 <li><a href="http://yinghao.vicp.io/" target="_blank">PPT插件6:LvyhTools</a></li> 
 <li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
@@ -141,6 +141,7 @@ abbr {text-decoration: none;}
 <li><a href="https://www.web2data.com/" target="_blank">瑞雪</a></li>
 <li><a href="http://www.51pashanhu.com/" target="_blank">爬山虎</a></li>
 <li><a href="http://www.jisouke.com/" target="_blank">集搜客</a></li>
+<li><a href="https://www.webscraper.io/" target="_blank">Web Scraper</a></li>
 </ol>
 <hr><h4 class="btn btn-primary btn-lg">在线课堂</h4><hr>
 <ol class="rounded-list">
@@ -247,14 +248,17 @@ abbr {text-decoration: none;}
 <td>2018-05-02第四期更新：矢量图标、Xposed框架</td></tr>
 <tr><td>2018-07-07第五期更新：微信接口（公众号、朋友圈等）、收趣接口</td>
 <td>2019-07-24第六期更新：商业可视化平台、公安备案信息</td></tr>
+<tr><td>2019-08-05第七期更新：重构网页，梦笔醉书、数据芸窗自动调取文章</td></tr>
 </table>
   
   
 <hr><h4 class="btn btn-info btn-lg">返回</h4><hr>
-<li><a href="http://lvxiong7zg.com/tag/" target="_blank">博文分类</a></li>
+<li><a href="http://lvxiong7zg.com/tag/" target="_blank">梦笔醉书</a></li>
 <li><a href="http://lvxiong7zg.com/prose/" target="_blank">聆楼觉梦</a></li>
 <li><a href="http://lvxiong7zg.com/poetry/" target="_blank">古韵听香</a></li>
 <li><a href="http://lvxiong7zg.com/message/" target="_blank">云墨书林</a></li>  
+<li><a href="http://lvxiong7zg.com/categories/" target="_blank">数据芸窗</a></li>
+<li><a href="http://lvxiong7zg.com/sljp" target="_blank">数庐经圃</a></li>    
 <li><a href="http://lvxiong7zg.com/reference/" target="_blank">资源分享</a></li> 
 <li><a href="http://lvxiong7zg.com/road/" target="_blank">建站之路</a></li>
 <li><a href="http://lvxiong7zg.com/private/" target="_blank">个人相册</a></li> 
