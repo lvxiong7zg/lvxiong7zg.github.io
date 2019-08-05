@@ -1,0 +1,47 @@
+---
+layout: default
+title: 数据芸窗
+header: Posts By sjyc
+---
+
+<div class="container docs-container">
+  <div class="row">
+    <div class="col-md-3">
+      <div class="sidebar hidden-print" role="complementary">
+        <div id="navigation">
+        	<h1>数据芸窗</h1>
+      		<ul class="nav sidenav">
+				{% if site.sjycs.first[0] == null %}
+					{% for sjyc in site.sjycs %} 
+				    	<li><a href="#{{ sjyc }}-ref">
+				    		{{ sjyc | join: "/" }} <span style="color: #999999;" >({{ site.sjycs[sjyc].size }})</span>
+				    	</a></li>
+			    	{% endfor %}
+			  	{% else %}
+			    	{% for sjyc in site.sjycs %} 
+				    	<li><a href="#{{ sjyc[0] }}-ref">
+				    		{{ sjyc[0] | join: "/" }} <span style="color: #999999;" >({{ sjyc[1].size }})</span>
+				    	</a></li>
+			    	{% endfor %}
+			  	{% endif %}
+          	</ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-9" role="main">
+      <div class="panel docs-content">
+        <div class="wrapper">
+          <div class="home">
+			{% for sjyc in site.sjycs %} 
+			  <h2 class="title-border" id="{{ sjyc[0] }}-ref">{{ sjyc[0] | join: "/" }}</h2><hr>
+			  <div>
+			    {% assign pages_list = sjyc[1] %}  
+			    {% include LessOrMore/pages_list %}
+			  </div><hr>
+			{% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
