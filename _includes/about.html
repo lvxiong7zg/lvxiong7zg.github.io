@@ -1,16 +1,16 @@
 <div class="nav sidenav">
-    <h3 class="head-t">sjycs</h3>
+    <h3 class="head-t">categorys</h3>
 <table class="table table-striped table-hover">
-    {% if site.sjycs.first[0] == null %}
-    {% for sjyc in site.sjycs %}
-    <tr><td><a href="/sjycs/#{{ sjyc }}-ref">
-        {{ sjyc | join: "/" }} <span class="btn btn-primary btn-xs pull-right">({{ site.sjycs[sjyc].size }}) </span>
+    {% if site.categorys.first[0] == null %}
+    {% for category in site.categorys %}
+    <tr><td><a href="/sjycs/#{{ category }}-ref">
+        {{ category | join: "/" }} <span class="btn btn-primary btn-xs pull-right">({{ site.categorys[category].size }}) </span>
     </a></td></tr>
     {% endfor %}
     {% else %}
-    {% for sjyc in site.sjycs %}
-    <tr><td><a href="/sjycs/#{{ sjyc[0] }}-ref">
-        {{ sjyc[0] | join: "/" }} <span class="btn btn-primary btn-xs pull-right">({{ sjyc[1].size }})</span>
+    {% for category in site.categorys %}
+    <tr><td><a href="/categorys/#{{ category[0] }}-ref">
+        {{ category[0] | join: "/" }} <span class="btn btn-primary btn-xs pull-right">({{ category[1].size }})</span>
     </a></td></tr>
     {% endfor %}
     {% endif %}
