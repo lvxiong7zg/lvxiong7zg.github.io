@@ -7,12 +7,14 @@ categories: Python
 `以人民网地方领导留言板为例，爬取宣威市群众留言信息 http://liuyan.people.com.cn/threads/list?fid=4275`
 `网站页面`
 
-![]()
+![](https://github.com/lvxiong7zg/lvxiong7zg.github.io/blob/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/%E7%88%AC%E5%8F%96%E4%BA%BA%E6%B0%91%E7%BD%91%E7%95%99%E8%A8%80%E6%9D%BF/%E7%88%AC%E5%8F%96%E4%BA%BA%E6%B0%91%E7%BD%91%E7%95%99%E8%A8%80%E6%9D%BF%E5%8E%9F%E7%BD%9101.png)
 
-![]()
+![](https://github.com/lvxiong7zg/lvxiong7zg.github.io/blob/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/%E7%88%AC%E5%8F%96%E4%BA%BA%E6%B0%91%E7%BD%91%E7%95%99%E8%A8%80%E6%9D%BF/%E7%88%AC%E5%8F%96%E4%BA%BA%E6%B0%91%E7%BD%91%E7%95%99%E8%A8%80%E6%9D%BF%E5%8E%9F%E7%BD%9102.png
+)
 
 `所爬取的内容`
-![]()
+![](https://github.com/lvxiong7zg/lvxiong7zg.github.io/blob/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/%E7%88%AC%E5%8F%96%E4%BA%BA%E6%B0%91%E7%BD%91%E7%95%99%E8%A8%80%E6%9D%BF/%E7%88%AC%E5%8F%96%E4%BA%BA%E6%B0%91%E7%BD%91%E7%95%99%E8%A8%80%E6%9D%BF%E5%86%85%E5%AE%B9.png
+)
 <!-- more -->
 ```YMAL
 import requests
