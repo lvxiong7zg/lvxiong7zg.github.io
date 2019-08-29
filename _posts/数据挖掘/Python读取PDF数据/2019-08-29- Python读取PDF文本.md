@@ -6,11 +6,11 @@ categories: Python
 ---
 `pdf`
 
-![pdf截图](https://github.com/lvxiong7zg/lvxiong7zg.github.io/new/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/Python读取PDF数据/Python读取pdf-pdf.png)
+![Python读取pdf-pdf.png](https://github.com/lvxiong7zg/lvxiong7zg.github.io/blob/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/Python%E8%AF%BB%E5%8F%96PDF%E6%95%B0%E6%8D%AE/Python%E8%AF%BB%E5%8F%96pdf-pdf.png "Python读取pdf-pdf.png")
 
 `读取文本`
 
-![pdf截图](https://github.com/lvxiong7zg/lvxiong7zg.github.io/new/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/Python读取PDF数据/Python读取pdf-文本.png)
+![Python读取pdf-文本.png](https://github.com/lvxiong7zg/lvxiong7zg.github.io/blob/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/Python%E8%AF%BB%E5%8F%96PDF%E6%95%B0%E6%8D%AE/Python%E8%AF%BB%E5%8F%96pdf-%E6%96%87%E6%9C%AC.png "Python读取pdf-文本.png")
 
 >读取公式时格式会错乱
 <!-- more -->
