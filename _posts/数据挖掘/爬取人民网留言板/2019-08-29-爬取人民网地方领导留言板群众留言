@@ -1,0 +1,46 @@
+---
+layout : post
+title : 爬取人民网地方领导留言板群众留言
+data : '2019-08-29 21:15:00 +0800'
+categories: Python
+---
+`以人民网地方领导留言板为例，爬取宣威市群众留言信息 http://liuyan.people.com.cn/threads/list?fid=4275`
+`网站页面`
+
+![]()
+
+![]()
+
+`所爬取的内容`
+![]()
+<!-- more -->
+```YMAL
+import requests
+url = "http://liuyan.people.com.cn/threads/queryThreadsList"
+#ua = UserAgent()
+headers1 = {
+'Accept': 'application/json, text/javascript, */*; q=0.01',
+'Accept-Encoding': 'gzip, deflate',
+'Accept-Language': 'zh-CN,zh;q=0.9',
+'Content-Length': '33',
+'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+'Cookie': 'ALLYESID4=11C1886C481C61FE; sso_c=0; sfr=1; wdcid=1f8bf23332cd77e3; _ma_tk=h3pay45uswb38o4bqrgt7r118tn39p7z; _people_ip_new_code=650000; aliyungf_tc=AQAAAJt/FHi/WQkAt8KCJ2gQ/OT2L3uA; JSESSIONID=89E481CFA821A58F4EC196195F92817F; wdlast=1564549085; wdses=7b008f5d8794fde0',
+'Host': 'liuyan.people.com.cn',
+'Origin': 'http://liuyan.people.com.cn',
+'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Mobile Safari/537.36',
+'Referer': 'http://liuyan.people.com.cn/threads/list?fid=4275&state=3'
+#'X-Requested-With': 'XMLHttpRequest'
+}
+data = {
+        'fid': '4275',
+'state': '1',
+'lastItem': '5941913'
+}
+res = requests.post(url,headers=headers1,data=data)
+import json
+#dumps = json.dumps(res.text)
+#print(dumps)
+json = json.loads(res.text)
+for i in range(0,9):
+   print("第'%d'条:" %i,json["responseData"][i]["content"],"\n")
+```
