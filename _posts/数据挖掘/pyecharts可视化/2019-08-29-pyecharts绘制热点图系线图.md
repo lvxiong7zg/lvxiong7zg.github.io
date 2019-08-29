@@ -5,11 +5,11 @@ data : '2019-08-29 22:40:00 +0800'
 categories: Python
 ---
 
-![](https://github.com/lvxiong7zg/lvxiong7zg.github.io/blob/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/pyecharts%E5%8F%AF%E8%A7%86%E5%8C%96/GeoLines%20%E7%A4%BA%E4%BE%8B.png)
+![](https://raw.githubusercontent.com/lvxiong7zg/lvxiong7zg.github.io/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/pyecharts%E5%8F%AF%E8%A7%86%E5%8C%96/GeoLines%20%E7%A4%BA%E4%BE%8B.png)
 <!-- more -->
-![](https://github.com/lvxiong7zg/lvxiong7zg.github.io/blob/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/pyecharts%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%85%A8%E5%9B%BD%E4%B8%BB%E8%A6%81%E5%9F%8E%E5%B8%82%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F.png)
+![](https://raw.githubusercontent.com/lvxiong7zg/lvxiong7zg.github.io/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/pyecharts%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%85%A8%E5%9B%BD%E4%B8%BB%E8%A6%81%E5%9F%8E%E5%B8%82%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F.png)
 
-![](https://github.com/lvxiong7zg/lvxiong7zg.github.io/blob/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/pyecharts%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E7%8E%AF%E5%BD%A2%E5%B8%83%E5%B1%80%E7%A4%BA%E4%BE%8B.png)
+![](https://raw.githubusercontent.com/lvxiong7zg/lvxiong7zg.github.io/master/_posts/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/pyecharts%E5%8F%AF%E8%A7%86%E5%8C%96/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E7%8E%AF%E5%BD%A2%E5%B8%83%E5%B1%80%E7%A4%BA%E4%BE%8B.png)
 
 ````YMAL
 from pyecharts import Geo
