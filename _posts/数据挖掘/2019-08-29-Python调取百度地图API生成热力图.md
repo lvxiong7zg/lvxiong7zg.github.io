@@ -9,6 +9,7 @@ categories: Python
 `2.将步骤1的经纬度数据复制到百度API示例中的热力地图代码中即可生成热力图`
 
 >pyecharts包可替代
+<!-- more -->
 
 ```YMAL
 import json
