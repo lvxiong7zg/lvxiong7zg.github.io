@@ -1,13 +1,9 @@
 ---
 published: true
 ---
-> 函数调用过程：
+> 函数调取过程：
 
->getData()
-
->——getAQIData() 和 getWeatherData() 
-    反混淆 ——getServerData() 加密，反混淆得出
-              ——getParam()、decodeData() 
+>getData()——getAQIData() 和 getWeatherData() ——反混淆 ——getServerData() 加密，反混淆得出——getParam()、decodeData() 
 
 <!-- more -->
 ````YMAL
