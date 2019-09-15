@@ -10,6 +10,7 @@ categories: R语言
 
 >代码：
 
+<!-- more -->
 ```YMAL
 library(gapminder)
 library(ggplot2)
