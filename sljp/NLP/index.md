@@ -6,7 +6,7 @@ permalink: /sljp/NLP
 published: True
 ---
 <br><br><br>
-》》》示例项目《《《<br>
+<hr><h1 class="btn btn-info btn-lg">示例项目</h1><hr><br>
 <p><strong>自动对联及作诗机</strong><br>
 <a href="https://mp.weixin.qq.com/s/A6FMzXS0W7jyTMuyCgzJhw" target="_blank" rel="noopener">风云三尺剑，花鸟一床书---对联数据集和自动对联机器人</a><br>
 <a href="https://mp.weixin.qq.com/s/VSPPEVcihLUcJMmh7h3hgA" target="_blank" rel="noopener">自动对联活动获奖结果以及机器对联赏析</a><br>
@@ -37,7 +37,7 @@ published: True
 
 <br><br>
 
-》》》NLP教程《《《
+<hr><h1 class="btn btn-info btn-lg">NLP教程</h1><hr>
 <br>
 <div id="content_views" class="markdown_views prism-atom-one-dark">
                     <!-- flowchart 箭头图标 勿删 -->
@@ -448,85 +448,12 @@ published: True
 <p><img src="/images/article/domain_slot.png" alt="" title=""></p>
 
 <p>上图是语义理解中，最有实用价值的框架语义表示（frame semantics representation）的原理简图。</p>
-
-<p>参考：</p>
-
-<p><a href="http://www.shuang0420.com/2017/04/27/NLP%E7%AC%94%E8%AE%B0%20-%20NLU%E4%B9%8B%E6%84%8F%E5%9B%BE%E5%88%86%E7%B1%BB/" rel="nofollow" data-token="847ab028e579cb9127e12b88cedb0728">http://www.shuang0420.com/2017/04/27/NLP%E7%AC%94%E8%AE%B0%20-%20NLU%E4%B9%8B%E6%84%8F%E5%9B%BE%E5%88%86%E7%B1%BB/</a></p>
-
-<p>NLU之意图分类</p>
+   </div>
 
 
-
-<h2 id="论文"><a name="t29"></a>论文</h2>
-
-<p>《Distant Supervision for relation extraction without labeled data》</p>
-
-<p>《Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding》</p>
-
-<p>《Convolutional Neural Networks for Sentence Classification》：TextCNN的开山之作</p>
-
-
-
-<h1 id="知识图谱参考资源"><a name="t30"></a>知识图谱参考资源</h1>
-
-<p><a href="https://wenku.baidu.com/view/38ad3ef7e109581b6bd97f19227916888586b959.html" rel="nofollow" data-token="abb653c1994accfd0412c09953f29a35">https://wenku.baidu.com/view/38ad3ef7e109581b6bd97f19227916888586b959.html</a></p>
-
-<p>知识图谱构建技术综述</p>
-
-<p><a href="https://wenku.baidu.com/view/e69a3619fe00bed5b9f3f90f76c66137ee064f15.html" rel="nofollow" data-token="f62964fb34bc62388f8eca9233326ade">https://wenku.baidu.com/view/e69a3619fe00bed5b9f3f90f76c66137ee064f15.html</a></p>
-
-<p>知识图谱技术综述</p>
-
-<p><a href="https://wenku.baidu.com/view/b3858227c5da50e2534d7f08.html" rel="nofollow" data-token="a6ccab4c519f1591bcf5989046a98a1d">https://wenku.baidu.com/view/b3858227c5da50e2534d7f08.html</a></p>
-
-<p>知识图谱技术原理介绍</p>
-
-<p><a href="https://mp.weixin.qq.com/s/JLYegFP7kEg6n34crgP09g" rel="nofollow" data-token="38f83064d2747b29d35fc82a0e5398b2">https://mp.weixin.qq.com/s/JLYegFP7kEg6n34crgP09g</a></p>
-
-<p>基于知识图谱的问答系统关键技术研究</p>
-
-<p><a href="https://mp.weixin.qq.com/s/XgKvh63wgEe-CR9bchp03Q" rel="nofollow" data-token="cefb2d0a0d07e0e86cd576682056ddb0">https://mp.weixin.qq.com/s/XgKvh63wgEe-CR9bchp03Q</a></p>
-
-<p>什么是知识图谱？</p>
-
-<p><a href="https://mp.weixin.qq.com/s/iqFXvhvYfOejaeNAhXxJEg" rel="nofollow" data-token="1c1743a2bed9f126b702f85225ee77c0">https://mp.weixin.qq.com/s/iqFXvhvYfOejaeNAhXxJEg</a></p>
-
-<p>当知识图谱遇上聊天机器人</p>
-
-<p><a href="https://mp.weixin.qq.com/s/U-dlYhnaR8OQw2UKYKUWKQ" rel="nofollow" data-token="40c9b3f1c83fa9170c315fb703a46cfd">https://mp.weixin.qq.com/s/U-dlYhnaR8OQw2UKYKUWKQ</a></p>
-
-<p>知识图谱前沿技术课程实录</p>
-
-<p><a href="https://mp.weixin.qq.com/s/MZE_SXsNg6Yt4dz2fmB1sA" rel="nofollow" data-token="20f88e4b147dca9fdd18a561fd58c290">https://mp.weixin.qq.com/s/MZE_SXsNg6Yt4dz2fmB1sA</a></p>
-
-<p>阿里知识图谱首次曝光：每天千万级拦截量，亿级别全量智能审核</p>
-
-<p><a href="https://mp.weixin.qq.com/s/WIro7pk7kboMvdwpZOSdQA" rel="nofollow" data-token="c339d6da6a312ebcc6ce2d7032cb672a">https://mp.weixin.qq.com/s/WIro7pk7kboMvdwpZOSdQA</a></p>
-
-<p>东南大学漆桂林：知识图谱的应用</p>
-
-<p><a href="https://mp.weixin.qq.com/s/z1hhG4GaBQXPHHt9UGZPnA" rel="nofollow" data-token="1d5ee50ca19a148f72b9cd860a75505c">https://mp.weixin.qq.com/s/z1hhG4GaBQXPHHt9UGZPnA</a></p>
-
-<p>东南大学高桓：知识图谱表示学习</p>
-
-<p><a href="https://mp.weixin.qq.com/s/JZYH_m1eS93KRjkWA82GoA" rel="nofollow" data-token="e44ad4c8c56282bd482bea9f2f877377">https://mp.weixin.qq.com/s/JZYH_m1eS93KRjkWA82GoA</a></p>
-
-<p>复旦肖仰华：基于知识图谱的问答系统</p>
-
-<p><a href="https://mp.weixin.qq.com/s/cEmtOAtfP2gSBlaPfGXb3w" rel="nofollow" data-token="c4a243d4b626ca5df83cbaa36466409f">https://mp.weixin.qq.com/s/cEmtOAtfP2gSBlaPfGXb3w</a></p>
-
-<p>多源信息表示学习在知识图谱中的应用</p>
-
-<p><a href="https://mp.weixin.qq.com/s/cL1aKdu8ig8-ocOPirXk2w" rel="nofollow" data-token="2763f3a9ef93756e0a0293e118f0e3b3">https://mp.weixin.qq.com/s/cL1aKdu8ig8-ocOPirXk2w</a></p>
-
-<p>如何构建知识图谱</p>
-
-<p><a href="https://mp.weixin.qq.com/s/Nh7XJOLNBDdpibopVG4MrQ" rel="nofollow" data-token="7e1d1e19f467a2ef16cb10272b5da397">https://mp.weixin.qq.com/s/Nh7XJOLNBDdpibopVG4MrQ</a></p>
-
-<p>中文通用百科知识图谱（CN-DBpedia）</p>                                    </div>
 
 <br><br>
-》》》机器学习与文本分析部分《《《
+<hr><h1 class="btn btn-info btn-lg">机器学习与文本分析部分</h1><hr>
 <br>
 >第一期：深度学习与文本分析（CIPS ATT5）
 第一讲：深度学习基础知识（邱锡鹏，复旦大学）
@@ -537,7 +464,7 @@ published: True
 
 第三节 概率图模型、深度生成模型、深度强化学习
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Basic.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Basic.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Basic.pdf)
 
 
 
@@ -546,7 +473,7 @@ ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Basic.pdf
 
 第一节  TensorFlow介绍与深度学习模型实现
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Practice.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Practice.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Practice.pdf)
 
 
 
@@ -556,7 +483,7 @@ ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Practice.pdf
 
 第二节    基于神经网络的图方法；基于神经网络的转移方法
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NLP.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NLP.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NLP.pdf)
 
 
 
@@ -566,7 +493,7 @@ ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NLP.pdf
 
 第二节  基于深度学习的知识抽取：实体关系抽取、开放域关系抽取、事件抽取
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Knowledge.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Knowledge.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Knowledge.pdf)
 
 
 
@@ -577,7 +504,7 @@ ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-Knowledge.pdf
 
 第二节 神经机器翻译进阶：字符与subword级神经机器翻译，基于句法的神经机器翻译与外部语言学知识融合，神经机器翻译新架构，多语与多模态神经机器翻译，神经机器翻译未来发展方向
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NMT.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NMT.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NMT.pdf)
 
 
 
@@ -587,21 +514,21 @@ ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NMT.pdf
 
 第二节  基于深度学习的知识问答 II；基于深度学习的阅读理解；基于深度学习的对话系统
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-QAI.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-QAI.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-QAI.pdf)
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/QA_2017_QAII.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/QA_2017_QAII.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/QA_2017_QAII.pdf)
 
 
 
 >第三讲：深度学习与社会计算（赵鑫，中国人民大学信息学院）
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-IRII.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-IRII.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-IRII.pdf)
 
 第一节 网络表示：主要以network embedding作为主要技术点，包括一些基本的network embedding模型（包括DeepWalk、LINE、Node2vec等），同时也包括一些拓展工作（包括异质关系网络融合表示）
 
 第二节 推荐系统：主要介绍最近几年深度学习在推荐系统中的应用，将分为两大块，刻画用户与物品交互以及刻画附加内容信息。将会涵盖大部分最新的深度学习推荐模型。
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NetworkI.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NetworkI.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NetworkI.pdf)
 
 
 
@@ -611,9 +538,8 @@ ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-NetworkI.pdf
 
 第二节 基于深层匹配的信息检索：信息检索的深层匹配建模、深层匹配模型及其在不同检索问题上的应用，相关的Toolkit介绍
 
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-IRI.pdf
-
-ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-IRII.pdf
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-IRI.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-IRI.pdf)
+[ppt：http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-IRII.pdf](http://cips-upload.bj.bcebos.com/2017/ssatt2017/ATT2017-IRII.pdf)
 
 
 >[示例项目原文](http://www.52nlp.cn/%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8ainlp-%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E6%9C%89ai%E7%9A%84nlp%E5%85%AC%E4%BC%97%E5%8F%B7)
