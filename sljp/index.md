@@ -18,7 +18,7 @@ abbr {text-decoration: none;}
 <li><a href="http://lvxiong7zg.com/sljp/Power BI" target="_blank"> Power BI数据可视化 </a></li> <br>
 <li><a href="http://lvxiong7zg.com/sljp/Tableau" target="_blank"> Tableau数据可视化 </a></li> <br>  
  
-<br> 
+                                             ----------------<br> 
   
 <li><a href="http://lvxiong7zg.com/sljp/Nvivo" target="_blank"> Nvivo质性分析 </a></li><br> 
 <li><a href="http://lvxiong7zg.com/sljp/DEA" target="_blank"> DEA数据包络分析 </a></li><br> 
