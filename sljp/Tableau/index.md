@@ -14,7 +14,7 @@ published: true
 
 2.Tableau数据可视化【在线教程】<br>
 <br>
-````YMAL
+
 <ul class="pagemenu">
 					<li class="navto-ads active">
 							
@@ -293,4 +293,4 @@ published: true
 					
 				</ul>
   
- ````
+
