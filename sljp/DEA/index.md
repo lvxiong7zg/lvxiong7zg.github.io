@@ -23,4 +23,5 @@ published: true
 5.DEA数据包络分析视频教程（百度云盘提取码：oz7u）：<br>
 [https://pan.baidu.com/s/11a09__T6hAAtZ2YPznxWYQ](https://pan.baidu.com/s/11a09__T6hAAtZ2YPznxWYQ)
 <br>
-![]({{site.baseurl}}/http://lvxiong7zg.ufile.ucloud.com.cn/DEA包络分析知识目录.png?UCloudPublicKey=zH1tXB1v72BYQh4Sf6Ie7SyRwfNpA2MqTDXq7e6X&Signature=enGZvuXYWFup6u8yPV%2B%2B3N0na%2FI%3D&Expires=1568798360)
+![](https://raw.githubusercontent.com/lvxiong7zg/lvxiong7zg.github.io/master/sljp/DEA/DEA%E5%8C%85%E7%BB%9C%E5%88%86%E6%9E%90%E7%9F%A5%E8%AF%86%E7%9B%AE%E5%BD%95.png)
+
