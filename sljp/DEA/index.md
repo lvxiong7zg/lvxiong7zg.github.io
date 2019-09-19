@@ -6,13 +6,13 @@ permalink: /sljp/DEA
 published: true
 ---
 <br><br>
-1.[DEA数据包络分析简介.ppt](http://lvxiong7zg.ufile.ucloud.com.cn/DEA模型.ppt?UCloudPublicKey=zH1tXB1v72BYQh4Sf6Ie7SyRwfNpA2MqTDXq7e6X&Signature=Ac%2BKRs4MoEjCkgEJpu58%2BR0O3Ac%3D&Expires=1568798043)
+1.[DEA数据包络分析简介.ppt](http://lvxiong7zg.cn-bj.ufileos.com/DEA模型.ppt)
 
 <br><br>
-2.[三阶段DEA模型理论与操作步骤详解.doc](http://lvxiong7zg.ufile.ucloud.com.cn/三阶段DEA模型理论与操作步骤详解.doc?UCloudPublicKey=zH1tXB1v72BYQh4Sf6Ie7SyRwfNpA2MqTDXq7e6X&Signature=ilLTWBZaJZ8X%2B5CxZCzvuF%2F8flU%3D&Expires=1568798106)
+2.[三阶段DEA模型理论与操作步骤详解.doc](http://lvxiong7zg.cn-bj.ufileos.com/三阶段DEA模型理论与操作步骤详解.doc)
 
 <br><br>
-3.[随机前沿模型（SFA）.doc](http://lvxiong7zg.ufile.ucloud.com.cn/随机前沿模型（SFA）.doc?UCloudPublicKey=zH1tXB1v72BYQh4Sf6Ie7SyRwfNpA2MqTDXq7e6X&Signature=O0p8fiM8CZWa6mgXQG3TSz23nZs%3D&Expires=1568798151)
+3.[随机前沿模型（SFA）.doc](http://lvxiong7zg.cn-bj.ufileos.com/随机前沿模型（SFA）.doc)
 
 <br><br>
 
