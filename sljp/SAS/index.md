@@ -14,10 +14,10 @@ published: True
 
 2.SAS视频目录:
 
-![](http://lvxiong7zg.ufile.ucloud.com.cn/SAS视频目录.png?UCloudPublicKey=zH1tXB1v72BYQh4Sf6Ie7SyRwfNpA2MqTDXq7e6X&Signature=jS1Jg46gSL4MCNtOdVX5bH1bbDM%3D&Expires=1568792101)
+![](http://lvxiong7zg.cn-bj.ufileos.com/SAS视频目录.png)
 
 <br><br>
 3.SAS教学书籍
-![](http://lvxiong7zg.ufile.ucloud.com.cn/SAS统计分析实用宝典.jpg?UCloudPublicKey=zH1tXB1v72BYQh4Sf6Ie7SyRwfNpA2MqTDXq7e6X&Signature=1JGc7nnlP33My%2FMsqMyL27JVDT8%3D&Expires=1568791766)
+![](http://lvxiong7zg.cn-bj.ufileos.com/SAS统计分析实用宝典.jpg)
 
 
