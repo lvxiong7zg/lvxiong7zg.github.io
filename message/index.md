@@ -37,7 +37,7 @@ published: true
 |[文学1](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D1.jpg)
 |[文学2](http://p4w9ayrxf.bkt.clouddn.com/%E6%96%87%E5%AD%A6%E4%B9%A6%E7%B1%8D2.jpg)
 |[借阅](http://p4w9ayrxf.bkt.clouddn.com/FireShot%20Capture%20026%20-%20%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86v5.5%E4%B9%A6%E7%9B%AE%E6%A3%80%E7%B4%A2%E7%B3%BB%E7%BB%9F%20-%20http___210.35.251.243_reader_book_hist.php_page=3.png)
-|[个人文集（2014年）](http://p5h7svbkm.bkt.clouddn.com/%E4%B8%AA%E4%BA%BA%E6%96%87%E9%9B%86%EF%BC%882014%E5%B9%B4%EF%BC%89.jpg)
+|[上廉居士文集（2014年）](http://p5h7svbkm.bkt.clouddn.com/%E4%B8%AA%E4%BA%BA%E6%96%87%E9%9B%86%EF%BC%882014%E5%B9%B4%EF%BC%89.jpg)
 
 
 -------------------------------
@@ -52,10 +52,14 @@ published: true
 
 论文：
 
+[我国电子银行发展范式初探—兼论优势银行的共性特征及现实差异](https://www.cebnet.com.cn/20190401/102562470.html)
+
+[违纪测量：违纪查处量与执纪力度、违纪存量的现实关系——解读违反中央八项规定精神问题的数据特征](http://lvxiong7zg.cn-bj.ufileos.com/%E3%80%8A%E8%BF%9D%E7%BA%AA%E6%B5%8B%E9%87%8F%EF%BC%9A%E8%BF%9D%E7%BA%AA%E6%9F%A5%E5%A4%84%E9%87%8F%E4%B8%8E%E6%89%A7%E7%BA%AA%E5%8A%9B%E5%BA%A6%E3%80%81%E8%BF%9D%E7%BA%AA%E5%AD%98%E9%87%8F%E7%9A%84%E7%8E%B0%E5%AE%9E%E5%85%B3%E7%B3%BB%E2%80%94%E8%A7%A3%E8%AF%BB%E8%BF%9D%E5%8F%8D%E4%B8%AD%E5%A4%AE%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A%E7%B2%BE%E7%A5%9E%E9%97%AE%E9%A2%98%E7%9A%84%E6%95%B0%E6%8D%AE%E7%89%B9%E5%BE%81%E3%80%8B+%E5%90%95%E9%9B%84.pdf)
+
 [二十年（1998-2017）来中国廉政理论研究现状与展望——基于4239篇CSSCI期刊论文的文献分析
 ](http://p5h7svbkm.bkt.clouddn.com/%E4%BA%8C%E5%8D%81%E5%B9%B4%EF%BC%881998-2017%EF%BC%89%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E4%B8%8E%E5%B1%95%E6%9C%9B.pdf)
 
-[毕业论文：当前中国廉政理论研究现状—基于高校廉政研究机构的数据分析](http://p5h7svbkm.bkt.clouddn.com/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%EF%BC%9A%E5%BD%93%E5%89%8D%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E2%80%94%E5%9F%BA%E4%BA%8E%E9%AB%98%E6%A0%A1%E5%BB%89%E6%94%BF%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
+[当前中国廉政理论研究现状—基于高校廉政研究机构的数据分析](http://p5h7svbkm.bkt.clouddn.com/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%EF%BC%9A%E5%BD%93%E5%89%8D%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E2%80%94%E5%9F%BA%E4%BA%8E%E9%AB%98%E6%A0%A1%E5%BB%89%E6%94%BF%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
 
 [The Mapping Mechanism of Modernization of National Governance and Corruption Governance](http://p5h7svbkm.bkt.clouddn.com/The%20Mapping%20Mechanism%20of%20Modernization%20of%20National%20Governance%20and%20Corruption%20Governance.pdf)
 
