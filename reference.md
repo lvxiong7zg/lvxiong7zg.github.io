@@ -67,6 +67,9 @@ abbr {text-decoration: none;}
 <li><a href="http://www.9thws.com/" target="_blank">第九工厂</a></li>
 <li><a href="https://www.chuangkit.com/" target="_blank">创客贴</a></li>
 <li><a href="https://www.fixpicture.org/" target="_blank">图片转换</a></li>
+<li><a href="https://jm.wps.cn/main/recent" target="_blank">极墨PPT</a></li>  
+<li><a href="https://www.woodo.cn/?f=2235" target="_blank">吾道幻灯片</a></li>  
+  
 </ol>
 <hr><h4 class="btn btn-info btn-lg">设计素材</h4><hr>
 <ol class="rectangle-list">
@@ -132,6 +135,7 @@ abbr {text-decoration: none;}
 <li><a href="https://dydata.io/" target="_blank">镝数</a></li>
 <li><a href="http://abi.esensoft.com/index/index.html" target="_blank">亿信ABI可视化</a></li> 
 <li><a herf="https://powerbi.microsoft.com/zh-cn/" target="_blank">Power Bi商业可视化</a></li> 
+<li><a herf="https://www.5118.com/" target="_blank">5118大数据</a></li> 
 </ol>
 <hr><h4 class="btn btn-info btn-lg">爬虫工具</h4><hr>
 <ol class="rectangle-list">
@@ -230,25 +234,37 @@ abbr {text-decoration: none;}
 <li><a href="http://prose.io/#lvxiong7zg/lvxiong7zg.github.io" target="_blank">个人prose</a></li> 
 <li><a href="https://portal.qiniu.com/create" target="_blank">七牛云</a></li>
 <li><a href="http://www.yaobijia.com.cn/" target="_blank">图书比价网</a></li> 
-<li><a href="https://mp.weixin.qq.com/s/i7CVekE3PQx5EinrRNKA2w" target="_blank">综合软件网</a></li>  
+<li><a href="https://mp.weixin.qq.com/s/i7CVekE3PQx5EinrRNKA2w" target="_blank">综合软件网</a></li> 
+<li><a href="http://24mail.chacuo.net/" target="_blank">临时邮箱</a></li>   
+<li><a href="http://www.nicetool.net/" target="_blank">在线工具大全</a></li>  
+<li><a href="https://search.chongbuluo.com//" target="_blank">快搜</a></li> 
 </ol>
 <hr><h4 class="btn btn-info btn-lg">算法网站</h4><hr>
 <ol class="rectangle-list">
 <li><a href="https://www.codewars.com/" target="_blank">Code Kata</a></li>
 </ol>
-<hr><h4 class="btn btn-primary btn-lg">更多资源，第六期更新...</h4><hr>
+<hr><h4 class="btn btn-primary btn-lg">更多资源，第九期更新...</h4><hr>
 <ol class="rounded-list">
 
 
 2018-01-10搭建<br>
 <table>
-<tr><td>2018-02-25第一期更新：插件、设计网址、网络监测工具</td>
-<td>2018-02-28第二期更新：爬虫软件、自由门翻墙</td></tr>
-<tr><td>2018-04-12第三期更新:办公系统、修辑软件</td>
-<td>2018-05-02第四期更新：矢量图标、Xposed框架</td></tr>
-<tr><td>2018-07-07第五期更新：微信接口（公众号、朋友圈等）、收趣接口</td>
-<td>2019-07-24第六期更新：商业可视化平台、公安备案信息</td></tr>
-<tr><td>2019-08-05第七期更新：重构网页，梦笔醉书、数据芸窗自动调取文章</td></tr>
+<tr>
+  <td>2018-02-25第一期更新：插件、设计网址、网络监测工具</td>
+  <td>2018-02-28第二期更新：爬虫软件、自由门翻墙</td>
+ </tr>
+<tr>
+  <td>2018-04-12第三期更新:办公系统、修辑软件</td>
+  <td>2018-05-02第四期更新：矢量图标、Xposed框架</td>
+ </tr>
+<tr>
+  <td>2018-07-07第五期更新：微信接口（公众号、朋友圈等）、收趣接口</td>
+  <td>2019-07-24第六期更新：商业可视化平台、公安备案信息</td>
+ </tr>
+<tr>
+  <td>2019-08-05第七期更新：重构网页，梦笔醉书、数据芸窗自动调取文章</td>
+  <td>2019-12-19第八期更新：极墨PPT、快搜等</td>
+ </tr>
 </table>
   
   
