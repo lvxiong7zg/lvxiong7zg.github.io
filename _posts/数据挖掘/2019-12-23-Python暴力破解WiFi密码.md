@@ -4,7 +4,7 @@ published: true
 
 >基本逻辑：获取无线网卡--创建连接--读取密码本进行破解
 
-<!-更多->
+<!-- more -->
 
 ````YMAL
 import pywifi
@@ -91,7 +91,8 @@ def readPassword():
             continue
 
 readPassword()
-``
+````
+
 >随机生成密码本
 
 ````YMAL
@@ -117,4 +118,4 @@ for i in r:
     print(i)
 dic.close()
 print("密码本已生成")
-``
+````
