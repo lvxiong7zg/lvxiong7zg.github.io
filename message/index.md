@@ -6,6 +6,12 @@ date: '2018-06-28 11:36:51 +0800'
 published: true
 ---
 
+<p align="center">夜静山空，万境之尘缘易了。</p>
+<p align="center">昼闲人寂，三千之妙法难书。</p>
+<p align="right">——2020年01月02日 《得趣处，几点飞翠落红》</p>
+-------------------------------
+
+
 <p align="center">诗词楹赋文具春秋</p>
 <p align="center">RPython数出左右</p>
 <p align="right">——2019年8月05日 </p>
