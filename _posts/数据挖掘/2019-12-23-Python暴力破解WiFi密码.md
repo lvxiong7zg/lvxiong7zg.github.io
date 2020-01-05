@@ -1,4 +1,8 @@
 ---
+layout: post
+title: Python暴力破解WiFi密码
+date: "2019-12-23 22:00:00 +0800"
+categories: Python
 published: true
 ---
 
