@@ -6,6 +6,13 @@ date: '2018-06-28 11:36:51 +0800'
 published: true
 ---
 
+
+<p align="center">堂前落叶砌红枕</p>
+<p align="center">篱外芦花织素帘</p>
+<p align="right">——2020年02月21日偶得</p>
+-------------------------------
+
+
 <p align="center">夜静山空，万境之尘缘易了。</p>
 <p align="center">昼闲人寂，三千之妙法难书。</p>
 <p align="right">——2020年01月02日《得趣处，几点飞翠落红》 </p>
@@ -44,7 +51,7 @@ published: true
 
 
 
-论文：
+个人论文：
 
 [我国电子银行发展范式初探—兼论优势银行的共性特征及现实差异](https://www.cebnet.com.cn/20190401/102562470.html)
 
