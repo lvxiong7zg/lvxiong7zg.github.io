@@ -36,7 +36,7 @@ categories: Python
 #打包处理:
 如选择，可在打包后直接在KEYWORDS.txt文件中填写路径以及规则，然后运行TOOL文件夹下的TOOL.exe
 
-····
+````
 
 
 ````YMAL 
@@ -59,7 +59,7 @@ categories: Python
 
 程序运行会在当前目录下生成dist 、build 、TEST.spec 、_pycache_ 的四个文件，需要的运行程序在dist 目录下，双击exe文件。
 
-····
+````
 
 >详细代码如下：
 <!-- more -->
