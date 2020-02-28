@@ -7,6 +7,7 @@ categories: Python
 
 
 ````YMAL 
+##添加（替换）页脚页码将Headers替换为Footers
 import win32com,os,sys,re 
 from win32com.client import Dispatch, constants
  
