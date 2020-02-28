@@ -6,6 +6,8 @@ categories: Python
 ---
 
 ````YMAL 
+
+
 程序运行逻辑：
    -->打开Excel文件按照指定的规则取得值
 		
@@ -38,6 +40,8 @@ categories: Python
 
 
 ````YMAL 
+
+
 打包方法：
 在没有安装Python开发包的电脑上运行的话，需要打包发布，Python提供了pyinstaller.exe程序来实现一键打包，首先下载安装pyinstaller模块，
 
