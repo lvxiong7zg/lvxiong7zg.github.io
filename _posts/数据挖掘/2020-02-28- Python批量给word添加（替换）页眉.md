@@ -1,10 +1,10 @@
-
 ---
 layout : post
 title : Python批量给word添加（替换）页眉
 data : '2020-02-28 11:05:00 +0800'
 categories: Python
 ---
+
 
 ````YMAL 
 import win32com,os,sys,re 
