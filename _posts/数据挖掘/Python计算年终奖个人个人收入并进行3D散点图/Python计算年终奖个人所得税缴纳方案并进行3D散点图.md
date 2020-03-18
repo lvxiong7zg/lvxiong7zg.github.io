@@ -1,0 +1,169 @@
+---
+layout : post
+title : Python计算年终奖个人所得税缴纳方案并绘制3D散点图.md
+date : '2020-03-18 10:05:00 +0800'
+categories: Python
+---
+
+
+````YMAL 
+
+年终奖个人所得税计算方案：
+
+方案一：年终奖单独计算，不分摊并入每月工资计算纳税
+
+方案二：年终奖分摊并入每月工资计算纳税
+
+中华人民共和国个人所得税法实施条例：http://www.gov.cn/zhengce/content/2018-12/22/content_5351177.htm
+
+中华人民共和国个人所得税法：http://www.chinatax.gov.cn/n810219/n810744/n3752930/n3752974/c3970366/content.html
+
+````
+
+![个人所得税年终奖计算（红分开，绿无差别，蓝并入）](http://lvxiong7zg.cn-bj.ufileos.com/%E4%BB%A3%E7%A0%81%E5%9B%BE%E5%BA%93%2F%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E5%B9%B4%E7%BB%88%E5%A5%96%E8%AE%A1%E7%AE%97%EF%BC%88%E7%BA%A2%E5%88%86%E5%BC%80%EF%BC%8C%E7%BB%BF%E6%97%A0%E5%B7%AE%E5%88%AB%EF%BC%8C%E8%93%9D%E5%B9%B6%E5%85%A5%EF%BC%89.png)
+
+
+<!-- more -->
+
+````YMAL 
+
+#%%cell1
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Mar 17 16:15:16 2020
+
+@author: Administrator
+"""
+
+import xlwt
+import numpy as np
+x=np.arange(4000,30000,500)
+y=np.arange(1000,6000,500)
+# x=8000;
+# y=3000;
+#月工资与年终奖分开算，即年终奖不分摊到每月，年总为Z
+
+a=b=c=1
+workbook = xlwt.Workbook()  # 新建一个工作簿
+sheet1 = workbook.add_sheet("适合分开纳税")  # 在工作簿中新建一个表格
+sheet1.write(0, 1, "正常月工资")
+sheet1.write(0, 2, "年终兑现评弹月奖金")
+sheet1.write(0, 3, "最低纳税额")
+
+sheet2 = workbook.add_sheet("适合并入每月计算")  # 在工作簿中新建一个表格
+sheet2.write(0, 1, "正常月工资")
+sheet2.write(0, 2, "年终兑现评弹月奖金")
+sheet2.write(0, 3, "最低纳税额")
+
+sheet3 = workbook.add_sheet("两种方法无差别")  # 在工作簿中新建一个表格
+sheet3.write(0, 1, "正常月工资")
+sheet3.write(0, 2, "年终兑现评弹月奖金")
+sheet3.write(0, 3, "最低纳税额")
+
+#月工资与年终奖合并计算，即年终奖分摊到每月,年总为P
+for m in range(0,len(x),1):
+    for n in range(0,len(y),1):
+        if (x[m]-5000) <= 3000:
+            X = (x[m]-5000)*0.03-0
+        
+        elif  (x[m]-5000) <= 12000:
+            X = (x[m]-5000)*0.1-210   
+        
+        elif  (x[m]-5000) <= 25000:
+            X = (x[m]-5000)*0.2-1410  #Z=12*X+Y  
+          
+            
+            
+        if y[n] <= 3000:
+            Y = 12*y[n]*0.03-0
+        
+        elif  y[n] <= 12000:
+            Y = 12*y[n]*0.1-210
+        
+        elif  y[n] <= 25000:
+            Y = 12*y[n]*0.2-1410   #Z=12*X+Y
+            
+            
+            
+        if (x[m]+y[n]-5000) <= 3000:
+            P = 12*((x[m]+y[n]-5000)*0.03-0)
+          
+        elif (x[m]+y[n]-5000) <= 12000:
+            P = 12*((x[m]+y[n]-5000)*0.1-210)
+          
+        elif (x[m]+y[n]-5000) <= 25000:
+            P = 12*((x[m]+y[n]-5000)*0.2-1410)
+            
+            
+        if (12*X+Y-P) < 0:
+            print("适合分开纳税：")
+            print(x[m],y[n],12*X+Y-P)
+            print("正在写入数据")
+            sheet1.write(a, 1, str(x[m]))  # 表格中写入数据（对应的行和列）
+            sheet1.write(a, 2, str(y[n]))  
+            sheet1.write(a, 3, str(12*X+Y))  
+            workbook.save("C:\\Users\\Administrator\\Desktop\\个人所得税计算3.xls")  # 保存工作簿
+            a=a+1
+            
+        elif (12*X+Y-P) > 0:
+            print("适合并入每月计算：")
+            print(x[m],y[n],12*X+Y-P)
+            print("正在写入数据")
+            sheet2.write(b, 1,str(x[m]))  # 表格中写入数据（对应的行和列）
+            sheet2.write(b, 2,str(y[n]))  
+            sheet2.write(b, 3,str(P))  
+            workbook.save("C:\\Users\\Administrator\\Desktop\\个人所得税计算3.xls")  # 保存工作簿
+            b=b+1
+            
+        elif (12*X+Y-P) == 0:
+            print("两种方法无差别：")
+            print(x[m],y[n],12*X+Y-P)
+            print("正在写入数据")
+            sheet3.write(c, 1,str(x[m]))  # 表格中写入数据（对应的行和列）
+            sheet3.write(c, 2,str(y[n]))  
+            sheet3.write(c, 3, str(12*X+Y))  
+            c=c+1
+            workbook.save("C:\\Users\\Administrator\\Desktop\\个人所得税计算3.xls")  # 保存工作簿
+
+#%%cell2
+from mpl_toolkits.mplot3d import Axes3D
+from matplotlib import pyplot as plt
+  
+fig = plt.figure()
+ax = Axes3D(fig)
+
+
+import pandas as pd
+#读取工作簿和工作簿中的工作表
+data1_frame=pd.read_excel('C:\\Users\\Administrator\\Desktop\\个人所得税计算3.xls',sheet_name='适合分开纳税')
+x1=data1_frame.iloc[1:,1]
+y1=data1_frame.iloc[1:,2]
+z1=data1_frame.iloc[1:,3]
+
+data2_frame=pd.read_excel('C:\\Users\\Administrator\\Desktop\\个人所得税计算3.xls',sheet_name='两种方法无差别')
+x2=data2_frame.iloc[1:,1]
+y2=data2_frame.iloc[1:,2]
+z2=data2_frame.iloc[1:,3]
+
+data3_frame=pd.read_excel('C:\\Users\\Administrator\\Desktop\\个人所得税计算3.xls',sheet_name='适合并入每月计算')
+x3=data3_frame.iloc[1:,1]
+y3=data3_frame.iloc[1:,2]
+z3=data3_frame.iloc[1:,3]
+
+
+# 绘制散点图
+fig = plt.figure()
+ax = Axes3D(fig)
+ax.scatter(x1, y1, z1, c='r', label='适合分开纳税')
+ax.scatter(x2, y2, z2, c='g', label='两种方法无差别')
+ax.scatter(x3, y3, z3, c='b', label='适合并入每月计算')
+ 
+ 
+# 添加坐标轴(顺序是Z, Y, X)
+ax.set_zlabel('Z', fontdict={'size': 15, 'color': 'red',})
+ax.set_ylabel('Y', fontdict={'size': 15, 'color': 'red'})
+ax.set_xlabel('X', fontdict={'size': 15, 'color': 'red'})
+
+plt.show()
+
+````
