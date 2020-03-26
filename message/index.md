@@ -51,22 +51,25 @@ published: true
 
 
 
-个人论文：
+个人论文-观点争鸣：
 
 [我国电子银行发展范式初探—兼论优势银行的共性特征及现实差异](https://www.cebnet.com.cn/20190401/102562470.html)
 
-[违纪测量：违纪查处量与执纪力度、违纪存量的现实关系——解读违反中央八项规定精神问题的数据特征](http://lvxiong7zg.cn-bj.ufileos.com/%E3%80%8A%E8%BF%9D%E7%BA%AA%E6%B5%8B%E9%87%8F%EF%BC%9A%E8%BF%9D%E7%BA%AA%E6%9F%A5%E5%A4%84%E9%87%8F%E4%B8%8E%E6%89%A7%E7%BA%AA%E5%8A%9B%E5%BA%A6%E3%80%81%E8%BF%9D%E7%BA%AA%E5%AD%98%E9%87%8F%E7%9A%84%E7%8E%B0%E5%AE%9E%E5%85%B3%E7%B3%BB%E2%80%94%E8%A7%A3%E8%AF%BB%E8%BF%9D%E5%8F%8D%E4%B8%AD%E5%A4%AE%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A%E7%B2%BE%E7%A5%9E%E9%97%AE%E9%A2%98%E7%9A%84%E6%95%B0%E6%8D%AE%E7%89%B9%E5%BE%81%E3%80%8B+%E5%90%95%E9%9B%84.pdf)
+[违纪测量：违纪查处量与执纪力度、违纪存量的现实关系——解读违反中央八项规定精神问题的数据特征](https://mp.weixin.qq.com/s/FFKVivmTC9LuxILPPfcvfg)
+
+[用青春之我创造青春之中国、青春之民族—学习习近平总书记在纪念五四运动100周年大会上的重要讲话精神](http://tougao.12371.cn/gaojian.php?tid=2299228&from=timeline)
 
 [二十年（1998-2017）来中国廉政理论研究现状与展望——基于4239篇CSSCI期刊论文的文献分析
-](http://p5h7svbkm.bkt.clouddn.com/%E4%BA%8C%E5%8D%81%E5%B9%B4%EF%BC%881998-2017%EF%BC%89%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E4%B8%8E%E5%B1%95%E6%9C%9B.pdf)
+](http://lvxiong7zg.cn-bj.ufileos.com/%E4%B8%AA%E4%BA%BA%E8%AE%BA%E6%96%87%2F%E3%80%90%E5%B9%BF%E5%B7%9E%E5%A4%A7%E5%AD%A6%EF%BC%88%E5%AD%A6%E6%8A%A5%EF%BC%89%E3%80%91%E4%BA%8C%E5%8D%81%E5%B9%B4%EF%BC%881998-2017%EF%BC%89%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E4%B8%8E%E5%B1%95%E6%9C%9B.pdf)
 
-[当前中国廉政理论研究现状—基于高校廉政研究机构的数据分析](http://p5h7svbkm.bkt.clouddn.com/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%EF%BC%9A%E5%BD%93%E5%89%8D%E4%B8%AD%E5%9B%BD%E5%BB%89%E6%94%BF%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6%E2%80%94%E5%9F%BA%E4%BA%8E%E9%AB%98%E6%A0%A1%E5%BB%89%E6%94%BF%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
+[当前中国廉政理论研究现状——基于高校廉政研究机构的Citespace知识图谱分析](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=LZZL201801014&v=MTAzNTRxVHJXTTFGckNVUjdxZlpPUnBGaURrVjd6TEtUZlJZckc0SDluTXJvOUVZSVI4ZVgxTHV4WVM3RGgxVDM=)
 
-[The Mapping Mechanism of Modernization of National Governance and Corruption Governance](http://p5h7svbkm.bkt.clouddn.com/The%20Mapping%20Mechanism%20of%20Modernization%20of%20National%20Governance%20and%20Corruption%20Governance.pdf)
+[The Mapping Mechanism of Modernization of National Governance and Corruption Governance](http://lvxiong7zg.cn-bj.ufileos.com/%E4%B8%AA%E4%BA%BA%E8%AE%BA%E6%96%87%2FThe%20Mapping%20Mech_%E7%9C%81%E7%95%A5_ption%20Governance_Xiong%20Lv.pdf)
 
-[十八大以来全面从严治党的伟大实践：基于违反中央“八项规定”精神问题数的分析](http://p5h7svbkm.bkt.clouddn.com/%E5%8D%81%E5%85%AB%E5%A4%A7%E4%BB%A5%E6%9D%A5%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E7%9A%84%E4%BC%9F%E5%A4%A7%E5%AE%9E%E8%B7%B5%EF%BC%9A%E5%9F%BA%E4%BA%8E%E8%BF%9D%E5%8F%8D%E4%B8%AD%E5%A4%AE%E2%80%9C%E5%85%AB%E9%A1%B9%E8%A7%84%E5%AE%9A%E2%80%9D%E7%B2%BE%E7%A5%9E%E9%97%AE%E9%A2%98%E6%95%B0%E7%9A%84%E5%88%86%E6%9E%90.pdf)
+[十八大以来全面从严治党的伟大实践：基于违反中央“八项规定”精神问题数的分析](https://mp.weixin.qq.com/s?src=11&timestamp=1585183797&ver=2239&signature=1077KeuixjPT2w5mMRIR0PaDV5JTTPsaKQhhut7I2pAW03UUGjBUsacPIMJguWdxPxG-d310JACH6ddQw2H4W8e3Lhh9xZuI-5HobyXnzRPgF2B0tNguLWMoO66MOnfJ&new=1)
 
-[中国反腐倡廉建设路径透视](http://p5h7svbkm.bkt.clouddn.com/%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E5%80%A1%E5%BB%89%E5%BB%BA%E8%AE%BE%E8%B7%AF%E5%BE%84%E9%80%8F%E8%A7%86.pdf)
+[中国反腐倡廉建设路径透视](http://lvxiong7zg.cn-bj.ufileos.com/%E4%B8%AA%E4%BA%BA%E8%AE%BA%E6%96%87%2F%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%85%90%E5%80%A1%E5%BB%89%E5%BB%BA%E8%AE%BE%E8%B7%AF%E5%BE%84%E9%80%8F%E8%A7%86.pdf)
+
 
 -------------------------------
 
