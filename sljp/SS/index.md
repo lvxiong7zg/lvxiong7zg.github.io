@@ -2,33 +2,10 @@
 layout: copy
 title: 社保知多少？
 date: '2022-12-17 19:05:15 +0800'
-permalink: /sljp/SPSS
 ---
 
 <div class="album__content js_album_bd">
-            
-                        
-                        <div class="album-sort__wrp js_album_sort" wah-hotarea="click">
-              <div class="js_positive_order">
-                <i class="album-sort-positive-icon"></i>
-                <span class="album-sort__word">正序</span>
-              </div>
-              <div class="js_negative_order" style="display: none;">
-                <i class="album-sort-negative-icon"></i>
-                <span class="album-sort__word">倒序</span>
-              </div>
-            </div>
-                        
-            <div class="page_footer album-back_load js_back_loading" style="display: none;">
-        <div class="weui-loadmore weui-loadmore_default">
-          <span class="weui-primary-loading">
-          <i class="weui-primary-loading__dot"></i>
-          </span>
-          <span class="weui-loadmore__tips">正在加载</span>
-        </div>
-        </div>
-
-            
+           
             <ul class="album__list js_album_list" wah-hotarea="click">
                             
               <li class="album__list-item js_album_item js_wx_tap_highlight wx_tap_cell" data-msgid="2247509061" data-itemidx="4" data-link="http://mp.weixin.qq.com/s?__biz=MzI5OTE0MjU0Ng==&amp;mid=2247509061&amp;idx=4&amp;sn=a8787e43acf6874e13e3cb1ddd07152f&amp;chksm=ec99f8b8dbee71ae3f70e4f4766f4af49e4a21b01bf1daefea8f8e1299a6c0f7a83b6cecead2#rd" data-title="「昆哥保妹说社保•7期」关于养老保险关系转移，看这一篇就够了！" data-is_read="0" data-pos_num="43">
