@@ -1,5 +1,9 @@
+---
 layout: copy
-date: '2022-12-17 19:02:15 +0800'
+title: 社保知多少？
+date: '2022-12-17 19:05:15 +0800'
+permalink: /sljp/SPSS
+---
 
 <div class="album__content js_album_bd">
             
