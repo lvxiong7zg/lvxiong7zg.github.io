@@ -1,6 +1,6 @@
 ---
 layout: copy
-title: 数庐经圃
+title: 数庐学堂
 date: '2019-08-05 16:15:15 +0800'
 permalink: /sljp/
 published: true
@@ -27,4 +27,7 @@ abbr {text-decoration: none;}
 <li><a href="http://lvxiong7zg.com/sljp/Eviews" target="_blank"> Eviews计量经济分析 </a></li><br> 
 <li><a href="http://lvxiong7zg.com/sljp/AMOS" target="_blank"> AMOS结构方程模型 </a></li> <br>
 <li><a href="http://lvxiong7zg.com/sljp/SPSS" target="_blank"> SPSS统计分析（问卷） </a></li> <br>
+ 
+                    -------------------------------------------<br> 
+<li><a href="http://lvxiong7zg.com/sljp/SS" target="_blank"> 社保课堂 </a></li> <br>
 </ol>
