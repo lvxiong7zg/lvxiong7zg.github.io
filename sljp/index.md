@@ -17,7 +17,8 @@ abbr {text-decoration: none;}
 <li><a href="http://lvxiong7zg.com/sljp/Eviews" target="_blank"> stata </a></li><br>
 <li><a href="http://lvxiong7zg.com/sljp/NLP" target="_blank"> NLP自然语言处理 </a></li><br>  
 <li><a href="http://lvxiong7zg.com/sljp/Power BI" target="_blank"> Power BI数据可视化 </a></li> <br>
-<li><a href="http://lvxiong7zg.com/sljp/Tableau" target="_blank"> Tableau数据可视化 </a></li> <br>  
+<li><a href="http://lvxiong7zg.com/sljp/Tableau" target="_blank"> Tableau数据可视化 </a></li> <br> 
+ <li><a href="http://lvxiong7zg.com/sljp/RPA" target="_blank"> RPA </a></li> <br> 
  
                    -------------------------------------------<br> 
   
@@ -29,5 +30,5 @@ abbr {text-decoration: none;}
 <li><a href="http://lvxiong7zg.com/sljp/SPSS" target="_blank"> SPSS统计分析（问卷） </a></li> <br>
  
                     -------------------------------------------<br> 
-<li><a href="http://lvxiong7zg.com/sljp/SS" target="_blank"> 社保课堂 </a></li> <br>
+<li><a href="http://lvxiong7zg.com/sljp/SS" target="_blank"> 社保小课堂 </a></li> <br>
 </ol>
