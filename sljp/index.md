@@ -1,7 +1,7 @@
 ---
 layout: copy
 title: 数庐学堂
-date: '2019-08-05 16:15:15 +0800'
+date: '2022-12-18 19:58:15 +0800'
 permalink: /sljp/
 published: true
 ---
@@ -18,7 +18,7 @@ abbr {text-decoration: none;}
 <li><a href="http://lvxiong7zg.com/sljp/NLP" target="_blank"> NLP自然语言处理 </a></li><br>  
 <li><a href="http://lvxiong7zg.com/sljp/Power BI" target="_blank"> Power BI数据可视化 </a></li> <br>
 <li><a href="http://lvxiong7zg.com/sljp/Tableau" target="_blank"> Tableau数据可视化 </a></li> <br> 
- <li><a href="http://lvxiong7zg.com/sljp/RPA" target="_blank"> RPA </a></li> <br> 
+ <li><a href="http://www.rpa-cn.com/UiPathxuexirenzheng/" target="_blank"> RPA </a></li> <br> 
  
                    -------------------------------------------<br> 
   
