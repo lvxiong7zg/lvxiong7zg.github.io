@@ -220,6 +220,6 @@ date: '2022-12-18 19:35:15 +0800'
 <br>
 
 
-<p style="line-height:18px;"><span style="font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51);font-size: 14px;"><a  target="_blank" data-linktype="2"><span style="font-family: 微软雅黑, sans-serif;font-size: 14px;color: rgb(96, 127, 166);letter-spacing: 0.1px;"> 该问题集主要采集整理自中国社会保障网、金豆数据、昆明市人社局/医保局/公积金中心官网及微信公众号等，仅用于分享，相关版权归原作者所有，如有侵权请联系删除</span></a></span></p>
+<p style="line-height:18px;"><span style="font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51);font-size: 10px;"><a  target="_blank" data-linktype="2"><span style="font-family: 微软雅黑, sans-serif;font-size: 14px;color: rgb(96, 127, 166);letter-spacing: 0.1px;"> 该问题集主要采集整理自中国社会保障网、金豆数据、昆明市人社局/医保局/公积金中心官网及微信公众号等，仅用于分享，相关版权归原作者所有，如有侵权请联系删除</span></a></span></p>
 <br><br>
 
